@@ -1,6 +1,6 @@
 ---
-layout: archive
 title: Research
+layout: archive
 ---
 
 I am interested in the development and application statistical models and software to understand the evolution of polyploids. 
