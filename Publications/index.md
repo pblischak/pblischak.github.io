@@ -4,9 +4,6 @@ layout: archive
 ---
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
-.MathJax_Display {
-  color: #000 !important;
-}
 
 **Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. 2015. 
 Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids. 
