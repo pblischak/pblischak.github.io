@@ -2,8 +2,6 @@
 layout: archive
 title: Research
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
 
 I am interested in the development and application statistical models and software to understand the evolution of polyploids. 
 My main focus is on understanding the evolutionary history of *Penstemon attenuatus*, a hexaploid species with four varieties distributed in the Pacific Northwest. 
