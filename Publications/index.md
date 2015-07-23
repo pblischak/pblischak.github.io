@@ -17,7 +17,7 @@ Gene prediction and annotation in *Penstemon* (Plantaginaceae): a workflow for m
 
 ## Talks
 
-\*presenting author, $$^{\ddagger}$$undergraduate author.
+\*presenting author, $$\color{black} ^{\ddagger}$$undergraduate author.
 
 #### 2015
 
@@ -27,7 +27,7 @@ Botany 2015. Edmonton, Alberta.
 [<a href="http://figshare.com/account/my_data" target="_blank">fig<strong>share</strong></a> :: 
 <a href="https://github.com/" target="_blank">GitHub</a>]
 
-Wolfe, A. D.\*, B. Stone$$^{\ddagger}$$, N. Padmalwar$$^{\ddagger}$$, **P. D. Blischak** and L. S. Kubatko. 
+Wolfe, A. D.\*, B. Stone$$\color{black} ^{\ddagger}$$, N. Padmalwar$$\color{black} ^{\ddagger}$$, **P. D. Blischak** and L. S. Kubatko. 
 *Hyobanche sanguinea* (Orobanchaceae): there's more than meets the eye. 
 Botany 2015. Edmonton, Alberta.
 
