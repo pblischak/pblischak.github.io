@@ -17,7 +17,7 @@ Gene prediction and annotation in *Penstemon* (Plantaginaceae): a workflow for m
 
 ## Talks
 
-\*presenting author, \\(^{\ddagger}\\)undergraduate author.
+\*presenting author, <span>\\(^{\ddagger}\\)</span>undergraduate author.
 
 #### 2015
 
