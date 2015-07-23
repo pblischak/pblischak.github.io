@@ -3,7 +3,8 @@ title: Vita
 layout: archive
 ---
 
-<a href="{{site.url}}/CV/cv.html" target="_blank">CV</a>
+CV: <a href="{{site.url}}/CV/cv.html" target="_blank">link</a>, 
+<a href="{{site.url}}/CV/cv_pdf.pdf" target="_blank">pdf</a>
 
 ----
 

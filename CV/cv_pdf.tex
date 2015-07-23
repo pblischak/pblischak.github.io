@@ -1,0 +1,219 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{etaremune}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+    \usepackage{xltxtra,xunicode}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Mapping=tex-text,Scale=MatchLowercase}
+  \newcommand{\euro}{€}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+\ifxetex
+  \usepackage[setpagesize=false, % page size defined by xetex
+              unicode=false, % unicode breaks when used with xetex
+              xetex]{hyperref}
+\else
+  \usepackage[unicode=true]{hyperref}
+\fi
+\hypersetup{breaklinks=true,
+            bookmarks=true,
+            pdfauthor={},
+            pdftitle={},
+            colorlinks=true,
+            citecolor=blue,
+            urlcolor=blue,
+            linkcolor=magenta,
+            pdfborder={0 0 0}}
+\urlstyle{same}  % don't use monospace font for urls
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\setcounter{secnumdepth}{0}
+
+%%% Change title format to be more compact
+\usepackage{titling}
+\setlength{\droptitle}{-2em}
+  \title{}
+  \pretitle{\vspace{\droptitle}}
+  \posttitle{}
+  \author{}
+  \preauthor{}\postauthor{}
+  \date{}
+  \predate{}\postdate{}
+
+
+
+
+\begin{document}
+
+\maketitle
+
+
+\section{\texorpdfstring{\textbf{Paul D.
+Blischak}}{Paul D. Blischak}}\label{paul-d.-blischak}
+
+\emph{456 Aronoff Laboratory, 318 W. 12th Ave., Columbus, OH 43210}
+
+Email: \href{mailto:blischak.4@osu.edu}{\nolinkurl{blischak.4@osu.edu}}
+
+Website:
+\href{http://pblischak.github.io}{\url{http://pblischak.github.io}}
+
+GitHub:
+\href{https://github.com/pblischak}{\url{https://github.com/pblischak}}
+
+\subsection{\texorpdfstring{\textbf{Education}}{Education}}\label{education}
+
+\textbf{In progress} -- Ph.D., Evol., Ecol., \& Org. Biology (EEOB), The
+Ohio State University (OSU). Graduate minor in Statistics (completed).
+
+\textbf{2012} -- B.Sc., Mathematics, The Ohio State University. Minors:
+Statistics, Spanish.
+
+\subsection{\texorpdfstring{\textbf{Professional
+Experience}}{Professional Experience}}\label{professional-experience}
+
+\textbf{2015--current} -- Graduate Research Associate, Dept. of EEOB,
+OSU.
+
+\textbf{2014} -- Teaching Associate, MBI Undergraduate Summer Program
+(Phylogenetics Lab), OSU.
+
+\textbf{2013--2015} -- Graduate Teaching Associate, Dept. of EEOB, OSU.
+
+\textbf{2012--2013} -- Graduate Student Fellow, Dept. of EEOB, OSU.
+
+\textbf{2011--2012} -- Undergraduate Research fellow, RUMBA Program,
+OSU.
+
+\subsection{\texorpdfstring{\textbf{Publications}}{Publications}}\label{publications}
+
+\begin{etaremune}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Blischak, P. D.}, L. S. Kubatko and A. D. Wolfe. 2015.
+  Accounting for genotype uncertainty in the estimation of allele
+  frequencies in autopolyploids. \emph{In review}. bioRxiv, doi:
+  \href{http://dx.doi.org/10.1101/021907}{\url{http://dx.doi.org/10.1101/021907}}.
+\item
+  \textbf{Blischak, P. D.}, A. J. Wenzel and A. D. Wolfe. 2014. Gene
+  prediction and annotation in \textit{Penstemon} (Plantaginaceae): a
+  workflow for marker development from extremely low-coverage genome
+  sequencing. \emph{Applications in Plant Sciences} 2: 1400044. doi:
+  \href{http://dx.doi.org/10.3732/apps.1400044}{\url{http://dx.doi.org/10.3732/apps.1400044}}.
+\end{etaremune}
+
+\subsection{\texorpdfstring{\textbf{Presentations}}{Presentations}}\label{presentations}
+
+(*presenting author, \(^{\ddagger}\)undergraduate author)
+
+\begin{etaremune}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Blischak, P. D.}*, L. S. Kubatko and A. D. Wolfe. July 2015.
+  Estimating allele frequencies in non-model autopolyploids using high
+  throughput sequencing data. Botany 2015. Edmonton, Alberta.
+  fig\textbf{share}, doi: \#\#\#\#.
+\item
+  Wolfe, A. D.*, B. Stone\(^{\ddagger}\), N. Padmalwar\(^{\ddagger}\),
+  \textbf{P. D. Blischak} and L. S. Kubatko. July 2015. \emph{Hyobanche
+  sanguinea} (Orobanchaceae): there's more than meets the eye. Botany
+  2015. Edmonton, Alberta.
+\item
+  Zacarias-Correa, A. G., A. J. Wenzel, \textbf{P. D. Blischak}, A. D.
+  Wolfe*, E. P. Calix and M.-S. Perez. July 2015. Molecular phylogeny of
+  \emph{Penstemon} section \emph{Fasciculus} (Plantaginaceae) based on
+  single copy orthologous genes (COSII). Botany 2015. Edmonton, Alberta.
+\item
+  \textbf{Blischak, P. D.}* More genomes, more problems. February 2015.
+  Graduate Student Forum Speed-Talks, OSU.
+\item
+  \textbf{Blischak, P. D.}*, A. D. Wolfe and L. S. Kubatko. October
+  2014. Phylogenomics and the coalescent model: new tools for new data.
+  EEOB Graduate Student Talks, OSU.
+\item
+  \textbf{Blischak, P. D.}*, A. D. Wolfe and L. S. Kubatko. July 2014.
+  Inferring large phylogenies under the coalescent model using SNPs from
+  next-generation sequence data. Botany 2014: Boise, ID.
+  fig\textbf{share}, doi:
+  \href{http://dx.doi.org/10.6084/m9.figshare.1436072}{\url{http://dx.doi.org/10.6084/m9.figshare.1436072}}.
+\item
+  Wolfe, A. D.* and \textbf{P. D. Blischak}. July 2014. Patterns of
+  diversity in \emph{Penstemon} (Plantaginaceae). Botany 2014: Boise,
+  ID.
+\item
+  \textbf{Blischak, P. D.}*, A. J. Wenzel, M. R. Stevens and A. D.
+  Wolfe. August 2013. How low can you go? Gene predictions and putative
+  annotations in four species of \emph{Penstemon} (Plantaginaceae) from
+  ultra low-coverage 454 sequencing. Botany 2013: New Orleans, LA.
+\item
+  Wenzel, A. J.*, \textbf{P. D. Blischak} and A. D. Wolfe. August 2013.
+  Molecular phylogenetic analysis of \emph{Penstemon} (Plantaginaceae)
+  section \emph{Ericopsis}: evaluating relationships and taxonomic
+  affinities. Botany 2013: New Orleans, LA.
+\end{etaremune}
+
+\subsection{\texorpdfstring{\textbf{Software}}{Software}}\label{software}
+
+\textbf{polyfreqs}: an R package for the estimation of allele
+frequencies in autopolyploids. Available on GitHub:
+\href{https://github.com/pblischak/polyfreqs}{\url{https://github.com/pblischak/polyfreqs}}.
+
+\subsection{\texorpdfstring{\textbf{Honors and
+Awards}}{Honors and Awards}}\label{honors-and-awards}
+
+\textbf{2015} -- ASPT Graduate Student Research Grant, \$800.00.
+
+\textbf{2014} -- SSB Graduate Student Research Award, \$1915.00.
+
+\textbf{2014} -- NSF Graduate Research Fellowship, Honorable Mention.
+
+\textbf{2014} -- NIMBioS Visiting Graduate Student Fellowship (advised
+by Dr.~Brian O'Meara).
+
+\textbf{2013} -- Beatley Award for Field Work in Plant Systematics, OSU
+Herbarium, \$1050.00.
+
+\textbf{2012} -- Distinguished University Fellowship, OSU Graduate
+School.
+
+\textbf{2011} -- Undergraduate Research Fellowship, RUMBA Program, OSU.
+
+\subsection{\texorpdfstring{\textbf{Service}}{Service}}\label{service}
+
+\textbf{2014} -- Graduate Student Representative: Diversity Committee.
+
+\textbf{2013} -- Graduate Student Representative: Seminar Committee.
+
+\textbf{Journal reviews} -- \emph{Molecular Phylogenetics and
+Evolution}.
+
+\subsection{\texorpdfstring{\textbf{Membership}}{Membership}}\label{membership}
+
+\textbf{2013-current} -- American Penstemon Society (APS), American
+Society of Plant Taxonomists (ASPT), Botanical Society of America (BSA),
+Society of Systematic Biologists (SSB), Society for the Study of
+Evolution (SSE).
+
+\begin{center}\rule{0.5\linewidth}{\linethickness}\end{center}
+
+Last updated: 23 July, 2015
+
+\end{document}
