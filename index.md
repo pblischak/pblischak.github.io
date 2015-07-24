@@ -3,7 +3,11 @@ layout: archive
 permalink: /
 ---
 
-<font color="red"><em><strong>NB</strong>: this site is still under construction. If you find any glaring errors (and I hope that there aren't any), please email me at blischak.4@osu.edu --- Thanks!</em></font>
+<font color="red"><em><strong>NB</strong>: this site is still under construction. If you find any errors, please email me at blischak.4@osu.edu --- Thanks!</em></font>
+
+----
+
+![main photo](/images/main-photo.jpg)
 
 I am a PhD candidate in the <a href="https://wolfelab.wordpress.com/" target="_blank">Wolfe Lab</a>  at Ohio State University. 
 I study evolutionary genetics looking specifically at the occurrence of polyploidy. 
