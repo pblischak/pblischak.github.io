@@ -50,7 +50,7 @@ Accounting for genotype uncertainty in the estimation of allele frequencies in a
 
 9. **Blischak, P. D.**\*, L. S. Kubatko and A. D. Wolfe. July 2015. 
 Estimating allele frequencies in non-model autopolyploids using high throughput sequencing data. 
-Botany 2015. Edmonton, Alberta. fig**share**, doi: ####.
+Botany 2015. Edmonton, Alberta. fig**share**, doi: [http://dx.doi.org/10.6084/m9.figshare.1495514](http://dx.doi.org/10.6084/m9.figshare.1495514).
 
 8. Wolfe, A. D.\*, B. Stone$^{\ddagger}$, N. Padmalwar$^{\ddagger}$, **P. D. Blischak** and L. S. Kubatko. July 2015. 
 *Hyobanche sanguinea* (Orobanchaceae): there's more than meets the eye. 
