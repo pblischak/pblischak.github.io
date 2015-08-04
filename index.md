@@ -3,7 +3,7 @@ layout: archive
 permalink: /
 ---
 
-<em><strong>NB</strong>: this site is still under construction. If you find any errors, please email me at blischak.4@osu.edu --- Thanks!</em>
+*__NB__: this site is still under construction. If you find any errors, please email me at blischak.4@osu.edu --- Thanks!*
 
 ----
 

@@ -116,6 +116,7 @@ Botanical Society of America (BSA),
 Society of Systematic Biologists (SSB), 
 Society for the Study of Evolution (SSE).
 
-----
 
+\begin{center}
 Last updated: `r format(Sys.time(), '%d %B, %Y')`
+\end{center}
