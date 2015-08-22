@@ -42,7 +42,7 @@ GitHub: <a href="https://github.com/pblischak" target="_blank">https://github.co
 
 **Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. 2015.
 Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids.
-*In review*. bioRxiv, doi: <a href="http://dx.doi.org/10.1101/021907" target="_blank">http://dx.doi.org/10.1101/021907</a>.
+*In revision*. bioRxiv, doi: <a href="http://dx.doi.org/10.1101/021907" target="_blank">http://dx.doi.org/10.1101/021907</a>.
 
 **Blischak, P. D.**, A. J. Wenzel and A. D. Wolfe. 2014. Gene prediction and annotation in \textit{Penstemon} (Plantaginaceae): a workflow for marker development from extremely low-coverage genome sequencing. *Applications in Plant Sciences* 2: 1400044. doi: <a href="http://dx.doi.org/10.3732/apps.1400044" target="_blank">http://dx.doi.org/10.3732/apps.1400044</a>.
 
