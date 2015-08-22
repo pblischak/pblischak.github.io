@@ -11,3 +11,5 @@ junk_images
 .Rhistory
 .RData
 CV/.Rhistory
+CV/*.synctex.gz
+CV/*.log
