@@ -5,7 +5,7 @@ layout: archive
 
 **Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. 2015.
 Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids.
-*In revision*. [<a href="http://biorxiv.org/content/early/2015/07/02/021907" target="_blank">bioRxiv</a> :: 
+*In review*. [<a href="http://biorxiv.org/content/early/2015/07/02/021907" target="_blank">bioRxiv</a> :: 
 <a href="https://github.com/pblischak/polyfreqs-ms-data" target="_blank">GitHub</a>]
 
 **Blischak, P. D.**, A. J. Wenzel and A. D. Wolfe. 2014.
