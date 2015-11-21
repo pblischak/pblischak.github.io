@@ -40,11 +40,10 @@ GitHub: <a href="https://github.com/pblischak" target="_blank">https://github.co
 
 ### **Publications**
 
-**Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. 2015.
-Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids.
-*In revision*. bioRxiv, doi: <a href="http://dx.doi.org/10.1101/021907" target="_blank">http://dx.doi.org/10.1101/021907</a>.
+**Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. *Accepted*. 
+Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids. *Molecular Ecology Resources*.
 
-**Blischak, P. D.**, A. J. Wenzel and A. D. Wolfe. 2014. Gene prediction and annotation in \textit{Penstemon} (Plantaginaceae): a workflow for marker development from extremely low-coverage genome sequencing. *Applications in Plant Sciences* 2: 1400044. doi: <a href="http://dx.doi.org/10.3732/apps.1400044" target="_blank">http://dx.doi.org/10.3732/apps.1400044</a>.
+**Blischak, P. D.**, A. J. Wenzel and A. D. Wolfe. 2014. Gene prediction and annotation in *Penstemon* (Plantaginaceae): a workflow for marker development from extremely low-coverage genome sequencing. *Applications in Plant Sciences* 2: 1400044. doi: <a href="http://dx.doi.org/10.3732/apps.1400044" target="_blank">http://dx.doi.org/10.3732/apps.1400044</a>.
 
 ----
 
@@ -81,8 +80,8 @@ Wenzel, A. J.\*, **P. D. Blischak** and A. D. Wolfe. August 2013. Molecular phyl
 ### **Software**
 
 **polyfreqs**:
-an R package for the estimation of allele frequencies in autopolyploids.
-Available on GitHub: <a href="https://github.com/pblischak/polyfreqs" target="_blank">https://github.com/pblischak/polyfreqs</a>.
+an R package for Bayesian population genomics in autopolyploids. 
+Available on GitHub <a href="https://github.com/pblischak/polyfreqs" target="_blank">https://github.com/pblischak/polyfreqs</a> and CRAN <a href="https://cran.r-project.org/package=polyfreqs", target="_blank">https://cran.r-project.org/package=polyfreqs</a>.
 
 ---
 
@@ -107,12 +106,13 @@ Available on GitHub: <a href="https://github.com/pblischak/polyfreqs" target="_b
 
 ### **Service**
 
+**2015** -- Graduate Student Representative: Advisory Committee; Graduate Student Advisor: Undergraduate Evolution and Ecology Club.
 
 **2014** -- Graduate Student Representative: Diversity Committee.
 
 **2013** -- Graduate Student Representative: Seminar Committee.
 
-**Journal reviews** -- *Molecular Phylogenetics and Evolution*.
+**Journal reviews** -- *Molecular Ecology, Molecular Phylogenetics and Evolution*.
 
 ----
 
