@@ -3,9 +3,9 @@ title: Research
 layout: archive
 ---
 
-I am interested in the development and application statistical models and software to understand the evolution of polyploids. My main focus is on understanding the evolutionary history of *Penstemon attenuatus*, a hexaploid species with four varieties distributed in the Pacific Northwest. A few of my projects include:
+I am interested in the development and application of statistical models and software to understand the evolution of polyploids. My main focus is on understanding the evolutionary history of *Penstemon attenuatus*, a hexaploid plant species with four varieties distributed in the Pacific Northwest region of North America. A few of my projects include:
 
-- Developing models for population genetic inferences in polyploids (both auto and allo).
+- Developing models for population genetic inferences in polyploids (both auto- and allopolyploids).
 
 - Testing hypotheses of allopolyploid formation in the *Penstemon attenuatus* species complex.
 
