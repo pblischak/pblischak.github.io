@@ -5,7 +5,7 @@ layout: archive
 
 **Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. *Accepted*.
 Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids.
-*Molecular Ecology Resource*. [<a href="http://biorxiv.org/content/early/2015/09/23/021907" target="_blank">preprint</a> :: <a href="http://dx.doi.org/10.5061/dryad.t297p" target="_blank">Dryad</a> ::
+*Molecular Ecology Resources*. [<a href="http://biorxiv.org/content/early/2015/09/23/021907" target="_blank">preprint</a> :: <a href="http://dx.doi.org/10.5061/dryad.t297p" target="_blank">Dryad</a> ::
 <a href="https://github.com/pblischak/polyfreqs-ms-data" target="_blank">GitHub</a>]
 
 **Blischak, P. D.**, A. J. Wenzel and A. D. Wolfe. 2014.
