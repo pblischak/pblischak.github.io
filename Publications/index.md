@@ -3,7 +3,9 @@ title: Publications
 layout: archive
 ---
 
-**Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. *Accepted*.
+Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. *Submitted*. Conservation genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Mojave Desert species of deep sand habitats.
+
+**Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. *In press*.
 Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids.
 *Molecular Ecology Resources* doi: 10.1111/1755-0998.12493. [<a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12493/abstract" target="_blank">link</a> :: <a href="http://biorxiv.org/content/early/2015/09/23/021907" target="_blank">preprint</a> :: <a href="http://dx.doi.org/10.5061/dryad.t297p" target="_blank">Dryad</a> ::
 <a href="https://github.com/pblischak/polyfreqs-ms-data" target="_blank">GitHub</a>]

@@ -40,10 +40,12 @@ GitHub: <a href="https://github.com/pblischak" target="_blank">https://github.co
 
 ### **Publications**
 
-**Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. *Accepted*. 
-Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids. *Molecular Ecology Resources*.
+Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. *Submitted*. Conservation genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Majove Desert species of deep sand habitats.
 
-**Blischak, P. D.**, A. J. Wenzel and A. D. Wolfe. 2014. Gene prediction and annotation in *Penstemon* (Plantaginaceae): a workflow for marker development from extremely low-coverage genome sequencing. *Applications in Plant Sciences* 2: 1400044. doi: <a href="http://dx.doi.org/10.3732/apps.1400044" target="_blank">http://dx.doi.org/10.3732/apps.1400044</a>.
+**Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. *In press*. 
+Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids. *Molecular Ecology Resources*, **doi**: 10.1111/1755-0998.12493. [<a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12493/abstract" target="_blank">link</a> :: <a href="http://biorxiv.org/content/early/2015/09/23/021907" target="_blank">preprint</a> :: <a href="http://datadryad.org/resource/doi:10.5061/dryad.t297p" target="_blank">Dryad</a> :: <a href="https://github.com/pblischak/polyfreqs-ms-data" target="_blank">GitHub</a>]
+
+**Blischak, P. D.**, A. J. Wenzel and A. D. Wolfe. 2014. Gene prediction and annotation in *Penstemon* (Plantaginaceae): a workflow for marker development from extremely low-coverage genome sequencing. *Applications in Plant Sciences*, **2**: 1400044. [<a href="http://www.bioone.org/doi/abs/10.3732/apps.1400044" target="_blank">link</a> :: <a href="http://datadryad.org/resource/doi:10.5061/dryad.f6s22" target="_blank">Dryad</a>]
 
 ----
 
@@ -87,16 +89,15 @@ Available on GitHub <a href="https://github.com/pblischak/polyfreqs" target="_bl
 
 ### **Honors and Awards**
 
+**2015** -- ASPT Graduate Student Research Grant: $800.00.
 
-**2015** -- ASPT Graduate Student Research Grant, $800.00.
-
-**2014** -- SSB Graduate Student Research Award, $1915.00.
+**2014** -- SSB Graduate Student Research Award: $1,915.00.
 
 **2014** -- NSF Graduate Research Fellowship, Honorable Mention.
 
 **2014** -- NIMBioS Visiting Graduate Student Fellowship (advised by Dr. Brian O'Meara).
 
-**2013** -- Beatley Award for Field Work in Plant Systematics, OSU Herbarium, $1050.00.
+**2013** -- Beatley Award for Field Work in Plant Systematics, OSU Herbarium: $1,050.00.
 
 **2012** -- Distinguished University Fellowship, OSU Graduate School.
 
@@ -112,7 +113,7 @@ Available on GitHub <a href="https://github.com/pblischak/polyfreqs" target="_bl
 
 **2013** -- Graduate Student Representative: Seminar Committee.
 
-**Journal reviews** -- *Molecular Ecology, Molecular Phylogenetics and Evolution*.
+**Journal reviews** -- *Molecular Ecology, Molecular Ecology Resources, Molecular Phylogenetics and Evolution*.
 
 ----
 
