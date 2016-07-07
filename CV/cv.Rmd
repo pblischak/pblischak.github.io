@@ -32,20 +32,20 @@ GitHub: <a href="https://github.com/pblischak" target="_blank">https://github.co
 
 **2013--2015** -- Graduate Teaching Associate, Dept. of EEOB, OSU.
 
-**2012--2013** -- Graduate Student Fellow, Dept. of EEOB, OSU.
+**2012--2013** -- Graduate Student Research Fellow, Dept. of EEOB, OSU.
 
-**2011--2012** -- Undergraduate Research fellow, RUMBA Program, OSU.
+**2011--2012** -- Undergraduate Research Fellow, RUMBA Program, OSU.
 
 ----
 
 ### **Publications**
 
-Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. *Accepted*. Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Majove Desert species of conservation concern. To appear in *Conservation Genetics*.
+Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. *Accepted*. Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Majove Desert species of conservation concern. *Conservation Genetics*. [<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]
 
-**Blischak, P. D.**, L. S. Kubatko and A. D. Wolfe. 2016. 
+**Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. 2016. 
 Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids. *Molecular Ecology Resources* **16**: 742--754. [<a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12493/abstract" target="_blank">link</a> :: <a href="http://biorxiv.org/content/early/2015/09/23/021907" target="_blank">preprint</a> :: <a href="http://datadryad.org/resource/doi:10.5061/dryad.t297p" target="_blank">Dryad</a> :: <a href="https://github.com/pblischak/polyfreqs-ms-data" target="_blank">GitHub</a>]
 
-**Blischak, P. D.**, A. J. Wenzel and A. D. Wolfe. 2014. Gene prediction and annotation in *Penstemon* (Plantaginaceae): a workflow for marker development from extremely low-coverage genome sequencing. *Applications in Plant Sciences* **2**: 1400044. [<a href="http://www.bioone.org/doi/abs/10.3732/apps.1400044" target="_blank">link</a> :: <a href="http://datadryad.org/resource/doi:10.5061/dryad.f6s22" target="_blank">Dryad</a>]
+**Blischak, P. D.**, A. J. Wenzel, and A. D. Wolfe. 2014. Gene prediction and annotation in *Penstemon* (Plantaginaceae): a workflow for marker development from extremely low-coverage genome sequencing. *Applications in Plant Sciences* **2**: 1400044. [<a href="http://www.bioone.org/doi/abs/10.3732/apps.1400044" target="_blank">link</a> :: <a href="http://datadryad.org/resource/doi:10.5061/dryad.f6s22" target="_blank">Dryad</a>]
 
 ----
 
@@ -53,31 +53,33 @@ Accounting for genotype uncertainty in the estimation of allele frequencies in a
 
 (\*presenting author, $^{\ddagger}$undergraduate author)
 
+**Blischak, P. D.**\*, L. S. Kubatko, and A. D. Wolfe. June 2016. Developing models for genotype uncertainty, inbreeding, and allelic inheritance in non-model polyploids. Evolution 2016. Austin, TX. fig**share**, doi: <a href="https://dx.doi.org/10.6084/m9.figshare.3436619.v1" target="_blank">https://dx.doi.org/10.6084/m9.figshare.3436619.v1</a>.
+
 **Blischak, P. D.**\* April 2016. Hierarchical models for genotype uncertainty in autopolyploids. NHS meeting, Dept. of Human Genetics, Univ. of Chicago. Chicago, IL.
 
-**Blischak, P. D.**\*, L. S. Kubatko and A. D. Wolfe. July 2015.
+**Blischak, P. D.**\*, L. S. Kubatko, and A. D. Wolfe. July 2015.
 Estimating allele frequencies in non-model autopolyploids using high throughput sequencing data.
 Botany 2015. Edmonton, Alberta. fig**share**, doi: <a href="http://dx.doi.org/10.6084/m9.figshare.1495514" target="_blank">http://dx.doi.org/10.6084/m9.figshare.1495514</a>.
 
-Wolfe, A. D.\*, B. Stone$^{\ddagger}$, N. Padmalwar$^{\ddagger}$, **P. D. Blischak** and L. S. Kubatko. July 2015.
+Wolfe, A. D.\*, B. Stone$^{\ddagger}$, N. Padmalwar$^{\ddagger}$, **P. D. Blischak**, and L. S. Kubatko. July 2015.
 *Hyobanche sanguinea* (Orobanchaceae): there's more than meets the eye.
 Botany 2015. Edmonton, Alberta.
 
-Zacarias-Correa, A. G., A. J. Wenzel, **P. D. Blischak**, A. D. Wolfe\*, E. P. Calix and M.-S. Perez. July 2015.
+Zacarias-Correa, A. G., A. J. Wenzel, **P. D. Blischak**, A. D. Wolfe\*, E. P. Calix, and M.-S. Perez. July 2015.
 Molecular phylogeny of *Penstemon* section *Fasciculus* (Plantaginaceae) based on single copy orthologous genes (COSII).
 Botany 2015. Edmonton, Alberta.
 
 **Blischak, P. D.**\* More genomes, more problems. February 2015. Graduate Student Forum Speed-Talks, OSU.
 
-**Blischak, P. D.**\*, A. D. Wolfe and L. S. Kubatko. October 2014. Phylogenomics and the coalescent model: new tools for new data. EEOB Graduate Student Talks, OSU.
+**Blischak, P. D.**\*, A. D. Wolfe, and L. S. Kubatko. October 2014. Phylogenomics and the coalescent model: new tools for new data. EEOB Graduate Student Talks, OSU.
 
-**Blischak, P. D.**\*, A. D. Wolfe and L. S. Kubatko. July 2014. Inferring large phylogenies under the coalescent model using SNPs from next-generation sequence data. Botany 2014: Boise, ID. fig**share**, doi: <a href="http://dx.doi.org/10.6084/m9.figshare.1436072" target="_blank">http://dx.doi.org/10.6084/m9.figshare.1436072</a>.
+**Blischak, P. D.**\*, A. D. Wolfe, and L. S. Kubatko. July 2014. Inferring large phylogenies under the coalescent model using SNPs from next-generation sequence data. Botany 2014: Boise, ID. fig**share**, doi: <a href="http://dx.doi.org/10.6084/m9.figshare.1436072" target="_blank">http://dx.doi.org/10.6084/m9.figshare.1436072</a>.
 
 Wolfe, A. D.\* and **P. D. Blischak**. July 2014. Patterns of diversity in *Penstemon* (Plantaginaceae). Botany 2014: Boise, ID.
 
-**Blischak, P. D.**\*, A. J. Wenzel, M. R. Stevens and A. D. Wolfe. August 2013. How low can you go? Gene predictions and putative annotations in four species of *Penstemon* (Plantaginaceae) from ultra low-coverage 454 sequencing. Botany 2013: New Orleans, LA.
+**Blischak, P. D.**\*, A. J. Wenzel, M. R. Stevens, and A. D. Wolfe. August 2013. How low can you go? Gene predictions and putative annotations in four species of *Penstemon* (Plantaginaceae) from ultra low-coverage 454 sequencing. Botany 2013: New Orleans, LA.
 
-Wenzel, A. J.\*, **P. D. Blischak** and A. D. Wolfe. August 2013. Molecular phylogenetic analysis of *Penstemon* (Plantaginaceae) section *Ericopsis*: evaluating relationships and taxonomic affinities. Botany 2013: New Orleans, LA.
+Wenzel, A. J.\*, **P. D. Blischak**, and A. D. Wolfe. August 2013. Molecular phylogenetic analysis of *Penstemon* (Plantaginaceae) section *Ericopsis*: evaluating relationships and taxonomic affinities. Botany 2013: New Orleans, LA.
 
 ----
 
