@@ -17,7 +17,9 @@ a:hover {
 
 </style>
 
-- Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. *Accepted*. Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Mojave Desert species of conservation concern. *Conservation Genetics*. [<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]
+- **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. *Submitted*. SNP genotyping and analysis of genetic diversity in polyploids. [<a href="https://zenodo.org/record/195779#.WFlzf7YrJyo" target="_blank">Zenodo</a>]
+
+- Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. 2016. Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Mojave Desert species of conservation concern. *Conservation Genetics* **17**:1245--1255. [<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]
 
 - **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. 2016.
 Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids.
