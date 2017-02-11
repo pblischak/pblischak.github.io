@@ -3,7 +3,13 @@ layout: archive
 title: Software
 ---
 
-**polyfreqs**: an R package for Bayesian population genomics in autopolyploids. [<a href="https://cran.r-project.org/package=polyfreqs" target="_blank">CRAN</a> :: <a href="https://github.com/pblischak/polyfreqs" target="_blank">GitHub</a> :: <a href="{{site.url}}/polyfreqs" target="_blank">Docs</a>]
+### <font style="font-variant: small-caps"><strong>ebg</strong></font>
+
+Empirical Bayes genotyping of biallelic SNPs in polyploids. [<a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]
+
+### <font style="font-variant: small-caps"><strong>polyfreqs</strong></font>
+
+An R package for Bayesian population genomics in autopolyploids. [<a href="https://cran.r-project.org/package=polyfreqs" target="_blank">CRAN</a> :: <a href="https://github.com/pblischak/polyfreqs" target="_blank">GitHub</a> :: <a href="{{site.url}}/polyfreqs" target="_blank">Docs</a>]
 
 - Install from CRAN: `install.packages("polyfreqs")`.
 
