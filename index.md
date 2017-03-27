@@ -3,6 +3,18 @@ layout: archive
 permalink: /
 ---
 
+<style>
+
+a {
+  color: #e86850;
+}
+
+a:hover {
+  color: #ffd800;
+}
+
+</style>
+
 ![main photo](/images/main-photo.jpg)
 
 I am a PhD candidate in the <a href="https://wolfelab.wordpress.com/" target="_blank">Wolfe Lab</a>  at Ohio State University. I study evolutionary genetics looking specifically at the occurrence of polyploidy.

@@ -3,6 +3,18 @@ layout: archive
 title: Software
 ---
 
+<style>
+
+a {
+  color: #e86850;
+}
+
+a:hover {
+  color: #ffd800;
+}
+
+</style>
+
 ### <font style="font-variant: small-caps"><strong>ebg</strong></font>
 
 Empirical Bayes genotyping of biallelic SNPs in polyploids. [<a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]

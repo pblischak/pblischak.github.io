@@ -3,8 +3,6 @@ title: Publications
 layout: archive
 ---
 
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
 <style>
 
 a {
@@ -17,7 +15,7 @@ a:hover {
 
 </style>
 
-- **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. *In Revision*. SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data. [<a href="https://zenodo.org/record/195779#.WFlzf7YrJyo" target="_blank">Zenodo</a>]
+- **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. *Submitted*. SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data. [<a href="http://biorxiv.org/content/early/2017/03/26/120261" target="_blank">preprint</a> :: <a href="https://zenodo.org/record/195779#.WFlzf7YrJyo" target="_blank">Zenodo</a>]
 
 - Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. 2016. Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Mojave Desert species of conservation concern. *Conservation Genetics* **17**:1245--1255. [<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]
 
@@ -26,21 +24,14 @@ Accounting for genotype uncertainty in the estimation of allele frequencies in a
 *Molecular Ecology Resources* **16**: 742--754. [<a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12493/abstract" target="_blank">link</a> :: <a href="http://biorxiv.org/content/early/2015/09/23/021907" target="_blank">preprint</a> :: <a href="http://dx.doi.org/10.5061/dryad.t297p" target="_blank">Dryad</a> ::
 <a href="https://github.com/pblischak/polyfreqs-ms-data" target="_blank">GitHub</a>]
 
-  - <div style="display: inline" data-badge-popover="right" data-doi="10.1111/1755-0998.12493" data-hide-no-mentions="true" class="altmetric-embed"></div> <div style="display: inline" data-badge-popover="right" data-doi="10.1101/021907" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
 - **Blischak, P. D.**, A. J. Wenzel, and A. D. Wolfe. 2014.
 Gene prediction and annotation in *Penstemon* (Plantaginaceae): a workflow for marker development from extremely low-coverage genome sequencing.
 *Applications in Plant Sciences* **2**: 1400044. [<a href="http://www.bioone.org/doi/abs/10.3732/apps.1400044" target="_blank">link</a> ::
 <a href="http://doi.org/10.5061/dryad.f6s22" target="_blank">Dryad</a>]
 
-  - <div data-badge-popover="right" data-doi="10.3732/apps.1400044" data-hide-no-mentions="true" class="altmetric-embed"></div>
-
-
 ## Talks
 
-
 \*presenting author, \\(^{\ddagger}\\)undergraduate author.
-
 
 #### 2016
 
