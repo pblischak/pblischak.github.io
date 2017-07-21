@@ -17,6 +17,8 @@ a:hover {
 
 - **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. *In Revision*. SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data. [<a href="http://biorxiv.org/content/early/2017/03/26/120261" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]
 
+- Latvis, M., S. J. Jacobs, S. M. E. Mortimer, M. Richards, **P. D. Blischak**, S. Mathews, and D. C Tank. _Accepted_. Primers for single-copy nuclear loci in _Castilleja_ and their utility across Orobanchaceae. _Applications in Plant Sciences_.
+
 - Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. 2016. Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Mojave Desert species of conservation concern. *Conservation Genetics* **17**:1245--1255. [<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]
 
 - **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. 2016.
