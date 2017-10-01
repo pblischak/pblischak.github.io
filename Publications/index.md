@@ -15,11 +15,14 @@ a:hover {
 
 </style>
 
-- **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. *In Revision*. SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data. [<a href="http://biorxiv.org/content/early/2017/03/26/120261" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]
+- **Blischak, P. D.**, J. Chifman, A. D. Wolfe, and L. S. Kubatko. *In Review*.
+HyDe: a Python package for genome-scale hybridization detection. [<a href="https://www.biorxiv.org/content/early/2017/09/15/188037" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/HyDe" target="_blank">GitHub</a>]
 
-- Latvis, M., S. J. Jacobs, S. M. E. Mortimer, M. Richards, **P. D. Blischak**, S. Mathews, and D. C. Tank. _Accepted_. Primers for single-copy nuclear loci in _Castilleja_ and their utility across Orobanchaceae. _Applications in Plant Sciences_.
+- **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. *Accepted*. SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data. *Bioinformatics*. [<a href="https://doi.org/10.1093/bioinformatics/btx587" target="_blank">link</a> :: <a href="https://www.biorxiv.org/content/early/2017/07/24/120261" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]
 
-- Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. 2016. Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Mojave Desert species of conservation concern. *Conservation Genetics* **17**:1245--1255. [<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]
+- Latvis, M., S. J. Jacobs, S. M. E. Mortimer, M. Richards, **P. D. Blischak**, S. Mathews, and D. C. Tank. 2017. Primers for single-copy nuclear loci in *Castilleja* and their utility across Orobanchaceae. *Applications in Plant Sciences* **5**: 1700038. [<a href="http://www.bioone.org/doi/full/10.3732/apps.1700038" target="_blank">link</a>]
+
+- Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. 2016. Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Mojave Desert species of conservation concern. *Conservation Genetics* **17**: 1245--1255. [<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]
 
 - **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. 2016.
 Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids.
@@ -39,7 +42,7 @@ Gene prediction and annotation in *Penstemon* (Plantaginaceae): a workflow for m
 
 - **Blischak, P. D.**\*, J. Chifman, A. D. Wolfe, and L. S. Kubatko. Detecting hybridization using phylogenetic invariants. Evolution 2017. Portland, OR. [<a href="https://doi.org/10.6084/m9.figshare.5151724.v2" target="_blank">figshare</a> :: <a href="https://www.youtube.com/watch?v=57wv4sg3cSU" target="_blank">YouTube</a>]
 
-- **Blischak, P. D.**\* and L. S. Kubatko. 2017. Hybridization detection with HyDe. Evolution 2017. Portland, OR. [<a href="https://doi.org/10.6084/m9.figshare.5144215.v1" target="_blank">figshare</a> :: <a href="https://github.com/pblischak/evol2017/blob/master/HyDe.ipynb" target="_blank">tutorial</a> :: <a href="https://www.youtube.com/watch?v=c6MAGa6C0U8" target="_blank">YouTube</a>]
+- **Blischak, P. D.**\* and L. S. Kubatko. 2017. Hybridization detection with HyDe. Evolution 2017. Portland, OR. [<a href="https://doi.org/10.6084/m9.figshare.5144215.v1" target="_blank">figshare</a> :: <a href="https://www.youtube.com/watch?v=c6MAGa6C0U8" target="_blank">YouTube</a>]
 
 #### 2016
 
