@@ -17,7 +17,7 @@ a:hover {
 
 #### HyDe
 
-Detection of hybridization in phylogenomic data sets using phylogenetic invariants. [<a href="https://github.com/pblischak/HyDe" target="_blank">GitHub</a> :: <a href="http://hybridization-detection.readthedocs.io/" target="_blank">docs</a> :: <a href="https://github.com/pblischak/evol2017/blob/master/HyDe.ipynb" target="_blank">tutorial</a>]
+Detection of hybridization in phylogenomic data sets using phylogenetic invariants. [<a href="https://github.com/pblischak/HyDe" target="_blank">GitHub</a> :: <a href="http://hybridization-detection.readthedocs.io/" target="_blank">docs</a>]
 
 #### EBG
 
