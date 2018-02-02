@@ -15,10 +15,17 @@ a:hover {
 
 </style>
 
-6. **Blischak, P. D.**, J. Chifman, A. D. Wolfe, and L. S. Kubatko. *In Review*.
-HyDe: a Python package for genome-scale hybridization detection. [<a href="https://www.biorxiv.org/content/early/2017/09/15/188037" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/HyDe" target="_blank">GitHub</a>]
+8. **Blischak, P. D.**, M. Latvis, D. F. Morales-Briones, J. C. Johnson, V. S. Di Stilio,
+A. D. Wolfe, and D. C. Tank. *In Review*. Fluidigm2PURC: automated processing and haplotype
+inference for double-barcoded PCR amplicons. [<a href="http://biorxiv.org/cgi/content/short/242677v1" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/fluidigm2purc" target="_blank">GitHub</a> :: <a href="https://hub.docker.com/r/pblischak/fluidigm2purc/" target="_blank">Docker</a>]
 
-5. **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. *Accepted*. SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data. *Bioinformatics*. [<a href="https://doi.org/10.1093/bioinformatics/btx587" target="_blank">link</a> :: <a href="https://www.biorxiv.org/content/early/2017/07/24/120261" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]
+7. **Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. *In Review*.
+Polyploidy as a window into genome and network evolution. *Co-first authors.
+
+6. **Blischak, P. D.**, J. Chifman, A. D. Wolfe, and L. S. Kubatko. *In Review*.
+HyDe: a Python package for genome-scale hybridization detection. [<a href="https://www.biorxiv.org/content/early/2018/01/22/188037" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/HyDe" target="_blank">GitHub</a>]
+
+5. **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. 2018. SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data. *Bioinformatics* **34**: 407--415. [<a href="https://doi.org/10.1093/bioinformatics/btx587" target="_blank">link</a> :: <a href="https://www.biorxiv.org/content/early/2017/07/24/120261" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]
 
 4. Latvis, M., S. J. Jacobs, S. M. E. Mortimer, M. Richards, **P. D. Blischak**, S. Mathews, and D. C. Tank. 2017. Primers for single-copy nuclear loci in *Castilleja* and their utility across Orobanchaceae. *Applications in Plant Sciences* **5**: 1700038. [<a href="http://www.bioone.org/doi/full/10.3732/apps.1700038" target="_blank">link</a>]
 
