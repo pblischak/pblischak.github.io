@@ -15,7 +15,7 @@ a:hover {
 
 </style>
 
-CV: <a href="{{site.url}}/CV/PBlischakCV_2017.pdf" target="_blank">pdf</a>
+CV: <a href="{{site.url}}/CV/PBlischakCV_2018.pdf" target="_blank">pdf</a>
 
 ----
 
