@@ -4,31 +4,62 @@ title: Paul Blischak
 description: "Research website"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale:
-url: http://pblischak.github.io
+locale: en
+url: http://pblischak.github.io/
+feed:
+  path: atom.xml
 
 # Jekyll configuration
 
 sass:
-    sass_dir: _sass
-    style: compressed
+  sass_dir: _sass
+  style: compressed
 permalink: /:categories/:title/
 kramdown:
   toc_levels: 1..2
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
 
 # Site owner
 owner:
   name: Paul Blischak
-  email: blischak.4@osu.edu
+  email: paul.blischak@gmail.com
   twitter: PaulBlischak
-  github: pblischak 
-  bio: "PhD student in Dept. of EEOB at Ohio State"
+  github: pblischak
+  google:
+    ad-client:
+    ad-slot:
+  bio: "PhD Candidate in Dept. of EEOB at Ohio State"
   avatar: #bio-photo.jpg # 160x160 px image for author byline
-disqus-shortname: pblischakgithubio
+  disqus-shortname: pblischakgithubio
 
 
-exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
+include:
+  - .htaccess
+exclude:
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp

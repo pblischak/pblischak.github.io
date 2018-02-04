@@ -6,13 +6,4 @@ codekit-config.json
 node_modules
 _asset_bundler_cache
 .sass-cache
-*~
-junk_images
-.Rhistory
-.RData
-CV/.Rhistory
-CV/*.synctex.gz
-CV/*.log
-Software/polyfreqs_100k-mcmc.out
-CV/*.aux
-CV/*.out
+.jekyll-metadata

@@ -53,21 +53,3 @@ sitemap: false
    ========================================================================== */
 
 @import "layout";
-
-.my-container {
-    position: relative;
-    overflow: hidden;
-}
-
-.my-container img {
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: auto;
-    opacity: 0.4;
-}
-
-.empty-space {
-	margin-bottom: 1in
-}
