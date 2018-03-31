@@ -15,15 +15,17 @@ a:hover {
 
 </style>
 
-8. **Blischak, P. D.**, M. Latvis, D. F. Morales-Briones, J. C. Johnson, V. S. Di Stilio,
-A. D. Wolfe, and D. C. Tank. *In Review*. Fluidigm2PURC: automated processing and haplotype
-inference for double-barcoded PCR amplicons. [<a href="http://biorxiv.org/cgi/content/short/242677v1" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/fluidigm2purc" target="_blank">GitHub</a> :: <a href="https://hub.docker.com/r/pblischak/fluidigm2purc/" target="_blank">Docker</a>]
-
-7. **Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. *In Review*.
+8. **Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. *In Revision*.
 Polyploidy as a window into genome and network evolution. *Co-first authors.
 
-6. **Blischak, P. D.**, J. Chifman, A. D. Wolfe, and L. S. Kubatko. *In Review*.
-HyDe: a Python package for genome-scale hybridization detection. [<a href="https://www.biorxiv.org/content/early/2018/01/22/188037" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/HyDe" target="_blank">GitHub</a>]
+7. **Blischak, P. D.**, M. Latvis, D. F. Morales-Briones, J. C. Johnson, V. S. Di Stilio,
+A. D. Wolfe, and D. C. Tank. *Accepted*. Fluidigm2PURC: automated processing and haplotype
+inference for double-barcoded PCR amplicons. *Applications in Plant Sciences*.
+[<a href="http://biorxiv.org/cgi/content/short/242677v1" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/fluidigm2purc" target="_blank">GitHub</a> :: <a href="https://hub.docker.com/r/pblischak/fluidigm2purc/" target="_blank">Docker</a>]
+
+6. **Blischak, P. D.**, J. Chifman, A. D. Wolfe, and L. S. Kubatko. *In Press*.
+HyDe: a Python package for genome-scale hybridization detection. *Systematic Biology*.
+[<a href="https://doi.org/10.1093/sysbio/syy023" target="_blank">link</a> :: <a href="https://www.biorxiv.org/content/early/2018/01/22/188037" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/HyDe" target="_blank">GitHub</a>]
 
 5. **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. 2018. SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data. *Bioinformatics* **34**: 407--415. [<a href="https://doi.org/10.1093/bioinformatics/btx587" target="_blank">link</a> :: <a href="https://www.biorxiv.org/content/early/2017/07/24/120261" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]
 
