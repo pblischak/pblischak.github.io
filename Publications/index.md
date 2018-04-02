@@ -29,7 +29,7 @@ HyDe: a Python package for genome-scale hybridization detection. *Systematic Bio
 
 5. **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. 2018. SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data. *Bioinformatics* **34**: 407--415. [<a href="https://doi.org/10.1093/bioinformatics/btx587" target="_blank">link</a> :: <a href="https://www.biorxiv.org/content/early/2017/07/24/120261" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]
 
-4. Latvis, M., S. J. Jacobs, S. M. E. Mortimer, M. Richards, **P. D. Blischak**, S. Mathews, and D. C. Tank. 2017. Primers for single-copy nuclear loci in *Castilleja* and their utility across Orobanchaceae. *Applications in Plant Sciences* **5**: 1700038. [<a href="http://www.bioone.org/doi/full/10.3732/apps.1700038" target="_blank">link</a>]
+4. Latvis, M., S. J. Jacobs, S. M. E. Mortimer, M. Richards, **P. D. Blischak**, S. Mathews, and D. C. Tank. 2017. Primers for *Castilleja* and their utility across Orobanchaceae: II. single-copy nuclear loci. *Applications in Plant Sciences* **5**: 1700038. [<a href="http://www.bioone.org/doi/full/10.3732/apps.1700038" target="_blank">link</a>]
 
 3. Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. 2016. Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Mojave Desert species of conservation concern. *Conservation Genetics* **17**: 1245--1255. [<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]
 
