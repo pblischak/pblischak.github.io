@@ -15,9 +15,9 @@ a:hover {
 
 </style>
 
-8. **Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. *In Review*.
+8. **Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. *In Press*.
 Integrating networks, phylogenomics, and population genomics for the study of polyploidy.
-\*Co-first authors.
+*Annual Review of Ecology, Evolution, and Systematics*. \*Co-first authors.
 
 7. **Blischak, P. D.**, M. Latvis, D. F. Morales-Briones, J. C. Johnson, V. S. Di Stilio,
 A. D. Wolfe, and D. C. Tank. *Accepted*. Fluidigm2PURC: automated processing and haplotype
