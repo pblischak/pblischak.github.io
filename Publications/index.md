@@ -15,6 +15,10 @@ a:hover {
 
 </style>
 
+9. Titus, B. M., **P. D. Blischak**, and M. Daly. *Submitted*. Genomic signatures
+of sympatric speciation with historical and contemporary gene flow in a tropical
+anthozoan. [<a href="https://github.com/pblischak/Bann_spdelim" target="_blank">GitHub</a>]
+
 8. **Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. *In Press*.
 Integrating networks, phylogenomics, and population genomics for the study of polyploidy.
 *Annual Review of Ecology, Evolution, and Systematics*. \*Co-first authors.
