@@ -15,6 +15,8 @@ a:hover {
 
 </style>
 
+<a href="https://scholar.google.com/citations?user=G6CHdi8AAAAJ&hl=en&oi=sra" target="_blank"><strong>Google Scholar</strong></a>
+
 9. Titus, B. M., **P. D. Blischak**, and M. Daly. *Submitted*. Genomic signatures
 of sympatric speciation with historical and contemporary gene flow in a tropical
 anthozoan. [<a href="https://github.com/pblischak/Bann_spdelim" target="_blank">GitHub</a>]
