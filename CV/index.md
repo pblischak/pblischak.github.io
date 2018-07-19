@@ -23,7 +23,7 @@ CV: <a href="{{site.url}}/CV/PBlischakCV_2018.pdf" target="_blank">pdf</a>
 
 Paul D. Blischak\\
 456 Aronoff Laboratory\\
-Dept. of Evolution, Ecology and Organismal Biology\\
+Dept. of Evolution, Ecology, & Organismal Biology\\
 The Ohio State University\\
 318 W. 12th Avenue\\
 Columbus, OH 43210\\
