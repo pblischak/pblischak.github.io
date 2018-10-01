@@ -36,25 +36,25 @@ HyDe: a Python package for genome-scale hybridization detection. *Systematic Bio
 6. **Blischak, P. D.**, M. Latvis, D. F. Morales-Briones, J. C. Johnson, V. S. Di Stilio,
 A. D. Wolfe, and D. C. Tank. 2018. Fluidigm2PURC: automated processing and haplotype
 inference for double-barcoded PCR amplicons. *Applications in Plant Sciences* 6:e1156.
-[<a href="https://doi.org/10.1002/aps3.1156" target="_blank">link</a> :: 
-<a href="http://biorxiv.org/cgi/content/short/242677v1" target="_blank">preprint</a> :: 
-<a href="https://github.com/pblischak/fluidigm2purc" target="_blank">GitHub</a> :: 
+[<a href="https://doi.org/10.1002/aps3.1156" target="_blank">link</a> ::
+<a href="http://biorxiv.org/cgi/content/short/242677v1" target="_blank">preprint</a> ::
+<a href="https://github.com/pblischak/fluidigm2purc" target="_blank">GitHub</a> ::
 <a href="https://hub.docker.com/r/pblischak/fluidigm2purc/" target="_blank">Docker</a>]
 
-5. **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. 2018. SNP genotyping and parameter estimation in 
-polyploids using low-coverage sequencing data. *Bioinformatics* 34:407--415. 
-[<a href="https://doi.org/10.1093/bioinformatics/btx587" target="_blank">link</a> :: 
-<a href="https://www.biorxiv.org/content/early/2017/07/24/120261" target="_blank">preprint</a> :: 
+5. **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. 2018. SNP genotyping and parameter estimation in
+polyploids using low-coverage sequencing data. *Bioinformatics* 34:407--415.
+[<a href="https://doi.org/10.1093/bioinformatics/btx587" target="_blank">link</a> ::
+<a href="https://www.biorxiv.org/content/early/2017/07/24/120261" target="_blank">preprint</a> ::
 <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]
 
-4. Latvis, M., S. J. Jacobs, S. M. E. Mortimer, M. Richards, **P. D. Blischak**, S. Mathews, 
-and D. C. Tank. 2017. Primers for *Castilleja* and their utility across Orobanchaceae: II. 
-single-copy nuclear loci. *Applications in Plant Sciences* 5:1700038. 
+4. Latvis, M., S. J. Jacobs, S. M. E. Mortimer, M. Richards, **P. D. Blischak**, S. Mathews,
+and D. C. Tank. 2017. Primers for *Castilleja* and their utility across Orobanchaceae: II.
+single-copy nuclear loci. *Applications in Plant Sciences* 5:1700038.
 [<a href="http://www.bioone.org/doi/full/10.3732/apps.1700038" target="_blank">link</a>]
 
-3. Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. 2016. 
-Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Mojave Desert 
-species of conservation concern. *Conservation Genetics* 17:1245--1255. 
+3. Wolfe, A. D., T. Necamp, S. Fassnacht, **P. D. Blischak**, and L. S. Kubatko. 2016.
+Population genetics of *Penstemon albomarginatus* (Plantaginaceae), a rare Mojave Desert
+species of conservation concern. *Conservation Genetics* 17:1245--1255.
 [<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]
 
 2. **Blischak, P. D.**, L. S. Kubatko, and A. D. Wolfe. 2016.
