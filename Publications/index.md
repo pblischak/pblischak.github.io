@@ -19,8 +19,8 @@ a:hover {
 
 10. Grindstaff, B.\\(^{\ddagger}\\), M. E. Mabry, **P. D. Blischak**, M. Quinn, and J. C. Pires. *In Review*
 Affordable remote monitoring of plant growth and facilities using Raspberry Pi computers. \\(^{\ddagger}\\)Undergraduate author.
-[<a href="https://doi.org/10.1101/586776" target="_blank_">preprint</a> :: 
-<a href="https://github.com/BrandinGrindstaff/GMpi" target="_blank_">GitHub</a>]
+[<a href="https://doi.org/10.1101/586776" target="_blank">preprint</a> :: 
+<a href="https://github.com/BrandinGrindstaff/GMpi" target="_blank">GitHub</a>]
 
 9. Titus, B. M., **P. D. Blischak**, and M. Daly. *In Review*. Genomic signatures
 of sympatric speciation with historical and contemporary gene flow in a tropical
