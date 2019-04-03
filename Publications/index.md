@@ -17,14 +17,19 @@ a:hover {
 
 <a href="https://scholar.google.com/citations?user=G6CHdi8AAAAJ&hl=en&oi=sra" target="_blank"><strong>Google Scholar</strong></a>
 
+10. Grindstaff, B.\\(^{\ddagger}\\), M. E. Mabry, **P. D. Blischak**, M. Quinn, and J. C. Pires. *In Review*
+Affordable remote monitoring of plant growth and facilities using Raspberry Pi computers. \\(^{\ddagger}\\)Undergraduate author.
+[<a href="https://doi.org/10.1101/586776" target="_blank_">preprint</a> :: 
+<a href="https://github.com/BrandinGrindstaff/GMpi" target="_blank_">GitHub</a>]
+
 9. Titus, B. M., **P. D. Blischak**, and M. Daly. *In Review*. Genomic signatures
 of sympatric speciation with historical and contemporary gene flow in a tropical
 anthozoan. [<a href="https://doi.org/10.1101/399360" target="_blank">preprint</a> :: 
 <a href="https://github.com/pblischak/Bann_spdelim" target="_blank">GitHub</a>]
 
-8. **Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. *In Press*.
+8. **Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. 2019.
 Integrating networks, phylogenomics, and population genomics for the study of polyploidy.
-*Annual Review of Ecology, Evolution, and Systematics*. \*Co-first authors.
+*Annual Review of Ecology, Evolution, and Systematics* 49:253--278. \*Co-first authors.
 [<a href="https://doi.org/10.1146/annurev-ecolsys-121415-032302" target="_blank">link</a>]
 
 7. **Blischak, P. D.**, J. Chifman, A. D. Wolfe, and L. S. Kubatko. 2018.
