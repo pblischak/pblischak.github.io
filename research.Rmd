@@ -1,0 +1,38 @@
+---
+title: "Research"
+---
+
+----
+
+My research combines statistical modeling, genomic data analysis, 
+and computer programming to answer fundamental questions about the nature and consequences of 
+duplication in biology. Below are my three main research foci
+
+----
+
+### Genomics of Polyploidy
+
+Whole genome duplication, and duplication in general, can have myriad consequences
+for the organisms affected. 
+
+ - **What are the demographic consequences of WGD?** As part of my postdoc,
+ I am working to develop models for inferring past demographic events (eg,
+ migration, divergence, bottlenecks) in polyploids using genome-wide SNP data.
+ We have also incorporated inbreeding into these inferences.
+
+<a href="https://github.com/ploidyverse">Ploidyverse</a>
+
+----
+
+### Modeling High-Throughput Sequencing Data 
+
+<a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">EBG</a>
+<a href="https://github.com/pblischak/fluidigm2purc" target="_blank">Fluidigm2PURC</a>
+
+
+----
+
+### Statistical Phylogenomics
+
+<a href="https://github.com/pblischak/HyDe" target="_blank">HyDe</a>
+<a href="https://github.com/pblischak/QCF" target="_blank">QCF</a>

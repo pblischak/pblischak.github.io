@@ -1,0 +1,36 @@
+name: "Paul Blischak"
+output_dir: "."
+exclude: ["README.md", "LICENSE.md"]
+navbar:
+  title: Paul Blischak
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  - text: Research
+    icon: fa-laptop
+    href: research.html
+  - text: Publications
+    icon: fa-newspaper-o
+    href: publications.html
+  - text: Software
+    icon: fa-code-fork
+    href: software.html
+  - text: Contact
+    icon: fa-id-card
+    href: contact.html
+  right:
+  - icon: fa-github-square
+    href: https://github.com/pblischak
+  - icon: fa-linkedin
+    href: https://linkedin.com/in/paulblischak
+  - icon: fa-twitter-square
+    href: https://twitter.com/PaulBlischak
+output:
+  html_document:
+    theme: flatly
+    highlight: textmate
+    include:
+      after_body: footer.md
+    lib_dir: site_libs
+    self_contained: no
