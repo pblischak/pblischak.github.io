@@ -29,7 +29,7 @@ anthozoan. [<a href="https://doi.org/10.1101/399360" target="_blank">preprint</a
 
 ### Peer-Reviewed Articles
 
-**Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. 2019.
+**Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. 2018.
 Integrating networks, phylogenomics, and population genomics for the study of polyploidy.
 *Annual Review of Ecology, Evolution, and Systematics* 49:253--278. \*Co-first authors.
 [<a href="https://doi.org/10.1146/annurev-ecolsys-121415-032302" target="_blank">link</a>]
@@ -79,6 +79,13 @@ Gene prediction and annotation in *Penstemon* (Plantaginaceae): a workflow for m
 ### Talks
 
 \*presenting author, $^{\ddagger}$undergraduate author.
+
+#### 2018
+
+**Blischak, P. D.**\*, C. Thompson$^{\ddagger}$, E. Waight$^{\ddagger}$, 
+D. Hightower$^{\ddagger}$, L. S. Kubatko, and A. D. Wolfe. Inferring Patterns 
+of Hybridizaton and Polyploidy in *Penstemon* subsections *Humiles* and *Proceri* 
+(Plantaginaceae). Botany 2018. Rochester, MN.
 
 #### 2017
 
