@@ -35,7 +35,7 @@ During my Ph.D., I spent most of my time developing methods for SNP and haplotyp
 inference in polyploids. As part of this, I developed several software packages 
 to distribute these models for other people to use. The two main software packages I developed are 
 <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">EBG</a> 
-and <a href="https://github.com/pblischak/fluidigm2purc">Fluidigm2PURC</a>. 
+and <a href="https://github.com/pblischak/fluidigm2purc" target="_blank">Fluidigm2PURC</a>. 
 EBG has has several models for inferring biallelic SNPs from high-throughput sequencing
 data in both auto- and allopolyploids. Fluidigm2PURC was developed to process paired-end
 sequencing data generated from double-barcoded PCR amplicons 
@@ -53,7 +53,9 @@ I contributed to is the hybridization detection software
 <a href="https://github.com/HyDe" target="_blank">HyDe</a>, where I modified the original
 method of <a href="https://doi.org/10.1101/034348" target="_blank">Kubatko and Chifman</a> 
 to accommodate multiple individuals sampled per species and added individual-level hypothesis testing. 
-I also developed <a href="https://github.com/QCF" target="_blank">QCF</a> as part of my dissertation, which is a method that estimates concordance factors for quartets of species. Quartet concordance
+I also developed <a href="https://github.com/pblischak/QCF" target="_blank">QCF</a> 
+as part of my dissertation, which is a method that estimates concordance factors 
+for quartets of species. Quartet concordance
 factors quantify the number of genes that support a given species-level quartet topology
 (AB|CD, AC|BD, and AD|BC). QCF allows these values to be calculated for multiple 
 individuals/haplotypes sampled per gene, and can also conduct gene-level and quartet-level bootstrapping
