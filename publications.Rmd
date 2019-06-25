@@ -20,14 +20,16 @@ Affordable remote monitoring of plant growth and facilities using Raspberry Pi c
 [<a href="https://doi.org/10.1101/586776" target="_blank">preprint</a> :: 
 <a href="https://github.com/BrandinGrindstaff/GMpi" target="_blank">GitHub</a>]
 
-Titus, B. M., **P. D. Blischak**, and M. Daly. *In Review*. Genomic signatures
-of sympatric speciation with historical and contemporary gene flow in a tropical
-anthozoan. [<a href="https://doi.org/10.1101/399360" target="_blank">preprint</a> :: 
-<a href="https://github.com/pblischak/Bann_spdelim" target="_blank">GitHub</a>]
-
 ----
 
 ### Peer-Reviewed Articles
+
+Titus, B. M., **P. D. Blischak**, and M. Daly. *Accepted*. Genomic signatures
+of sympatric speciation with historical and contemporary gene flow in a tropical
+anthozoan. *Molecular Ecology*. 
+[<a href="https://doi.org/10.1111/mec.15157" target="_blank">link</a> :: 
+<a href="https://doi.org/10.1101/399360" target="_blank">preprint</a> :: 
+<a href="https://github.com/pblischak/Bann_spdelim" target="_blank">GitHub</a>]
 
 **Blischak, P. D.**\*, M. E. Mabry\*, G. C. Conant, and J. C. Pires. 2018.
 Integrating networks, phylogenomics, and population genomics for the study of polyploidy.
