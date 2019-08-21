@@ -15,13 +15,14 @@ p {
 
 ### Peer-Reviewed Articles
 
-Grindstaff, B.$^{\ddagger}$, M. E. Mabry, **P. D. Blischak**, M. Quinn, and J. C. Pires. *Accepted*.
+Grindstaff, B.$^{\ddagger}$, M. E. Mabry, **P. D. Blischak**, M. Quinn, and J. C. Pires. *In press*.
 Affordable remote monitoring of plant growth and facilities using Raspberry Pi computers.
 *Applications in Plant Sciences*. $^{\ddagger}$Undergraduate author.
-[<a href="https://doi.org/10.1101/586776" target="_blank">preprint</a> :: 
+[<a href="https://doi.org/10.1002/aps3.11280" target="_blank">link</a> ::
+<a href="https://doi.org/10.1101/586776" target="_blank">preprint</a> :: 
 <a href="https://github.com/BrandinGrindstaff/GMpi" target="_blank">GitHub</a>]
 
-Titus, B. M., **P. D. Blischak**, and M. Daly. *Accepted*. Genomic signatures
+Titus, B. M., **P. D. Blischak**, and M. Daly. *In press*. Genomic signatures
 of sympatric speciation with historical and contemporary gene flow in a tropical
 anthozoan. *Molecular Ecology*. 
 [<a href="https://doi.org/10.1111/mec.15157" target="_blank">link</a> :: 
