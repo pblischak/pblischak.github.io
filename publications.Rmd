@@ -13,18 +13,26 @@ p {
 
 ----
 
+### Preprints
+
+Mabry, M. E., J. M. Brose, **P. D. Blischak**, B. Sutherland, W. T. Dismukes, C. A. Bottoms,
+P. P. Edger, J. D. Washburn, H. An, J. C. Hall, M. R. McKain, I. Al-Shehbaz, M. S. Barker,
+M. E. Schranz, G. C. Conant, and J. C. Pires. *Submitted*. Phylogeny and multiple independent
+whole-genome duplication events in the Brassicales. 
+[<a href="https://doi.org/10.1101/789040 " target="_blank">preprint</a>]
+
 ### Peer-Reviewed Articles
 
-Grindstaff, B.$^{\ddagger}$, M. E. Mabry, **P. D. Blischak**, M. Quinn, and J. C. Pires. *In press*.
+Grindstaff, B.$^{\ddagger}$, M. E. Mabry, **P. D. Blischak**, M. Quinn, and J. C. Pires. 2019.
 Affordable remote monitoring of plant growth and facilities using Raspberry Pi computers.
-*Applications in Plant Sciences*. $^{\ddagger}$Undergraduate author.
+*Applications in Plant Sciences* 7:e11280. $^{\ddagger}$Undergraduate author.
 [<a href="https://doi.org/10.1002/aps3.11280" target="_blank">link</a> ::
 <a href="https://doi.org/10.1101/586776" target="_blank">preprint</a> :: 
 <a href="https://github.com/BrandinGrindstaff/GMpi" target="_blank">GitHub</a>]
 
-Titus, B. M., **P. D. Blischak**, and M. Daly. *In press*. Genomic signatures
+Titus, B. M., **P. D. Blischak**, and M. Daly. 2019. Genomic signatures
 of sympatric speciation with historical and contemporary gene flow in a tropical
-anthozoan. *Molecular Ecology*. 
+anthozoan. *Molecular Ecology* 28:3572--3586. 
 [<a href="https://doi.org/10.1111/mec.15157" target="_blank">link</a> :: 
 <a href="https://doi.org/10.1101/399360" target="_blank">preprint</a> :: 
 <a href="https://github.com/pblischak/Bann_spdelim" target="_blank">GitHub</a>]

@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -71,9 +72,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type = "text/css">
 .main-container {
@@ -87,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -192,8 +190,6 @@ $(document).ready(function () {
 });
 </script>
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
 
 <style type="text/css">
@@ -250,20 +246,17 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -360,7 +353,7 @@ $(document).ready(function () {
 </div>
 <div id="modeling-high-throughput-sequencing-data" class="section level3">
 <h3>Modeling High-Throughput Sequencing Data</h3>
-<p>During my Ph.D., I spent most of my time developing methods for SNP and haplotype inference in polyploids. As part of this, I developed several software packages to distribute these models for other people to use. The two main software packages I developed are <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">EBG</a> and <a href="https://github.com/pblischak/fluidigm2purc" target="_blank">Fluidigm2PURC</a>. EBG has has several models for inferring biallelic SNPs from high-throughput sequencing data in both auto- and allopolyploids. Fluidigm2PURC was developed to process paired-end sequencing data generated from double-barcoded PCR amplicons (<a href="https://doi.org/10.1371/journal.pone.0148203" target="_blank">Uribe-Convers et al. 2016</a>) and to infer haplotypes from these data for diploids, polyploids, and even individuals with unknown ploidy.</p>
+<p>During my Ph.D., I spent most of my time developing methods for SNP and haplotype inference in polyploids. As part of this, I developed several software packages to distribute these models for other people to use. The two main software packages I developed are <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">EBG</a> and <a href="https://github.com/pblischak/fluidigm2purc" target="_blank">Fluidigm2PURC</a>. EBG has has several models for inferring biallelic SNPs from high-throughput sequencing data in both auto- and allopolyploids. Fluidigm2PURC was developed to process paired-end sequencing data generated from double-barcoded PCR amplicons (<a href="https://doi.org/10.1371/journal.pone.0148203" target="_blank">Uribe-Convers et al. 2016</a>) and to infer haplotypes from these data for diploids, polyploids, and even individuals with unknown ploidy.</p>
 <hr />
 </div>
 <div id="statistical-phylogenomics" class="section level3">
@@ -407,6 +400,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
