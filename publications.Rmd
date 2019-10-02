@@ -21,6 +21,8 @@ M. E. Schranz, G. C. Conant, and J. C. Pires. *Submitted*. Phylogeny and multipl
 whole-genome duplication events in the Brassicales. 
 [<a href="https://doi.org/10.1101/789040 " target="_blank">preprint</a>]
 
+----
+
 ### Peer-Reviewed Articles
 
 Grindstaff, B.$^{\ddagger}$, M. E. Mabry, **P. D. Blischak**, M. Quinn, and J. C. Pires. 2019.
