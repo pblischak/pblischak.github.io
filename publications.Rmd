@@ -19,15 +19,16 @@ Qi, X., H. An, T. E. Hall, C. Di, **P. D. Blischak**, J. C. Pires, M. S. Barker.
 Genes derived from ancient polyploidy have higher genetic diversity and are associated with domestication in *Brassica rapa*.
 [<a href="https://doi.org/10.1101/842351" target="_blank">preprint</a>]
 
-Mabry, M. E., J. M. Brose, **P. D. Blischak**, B. Sutherland, W. T. Dismukes, C. A. Bottoms,
-P. P. Edger, J. D. Washburn, H. An, J. C. Hall, M. R. McKain, I. Al-Shehbaz, M. S. Barker,
-M. E. Schranz, G. C. Conant, and J. C. Pires. *In review*. Phylogeny and multiple independent
-whole-genome duplication events in the Brassicales. 
-[<a href="https://doi.org/10.1101/789040 " target="_blank">preprint</a>]
-
 ----
 
 ### Peer-Reviewed Articles
+
+Mabry, M. E., J. M. Brose, **P. D. Blischak**, B. Sutherland, W. T. Dismukes, C. A. Bottoms,
+P. P. Edger, J. D. Washburn, H. An, J. C. Hall, M. R. McKain, I. Al-Shehbaz, M. S. Barker,
+M. E. Schranz, G. C. Conant, and J. C. Pires. *Accepted*. Phylogeny and multiple independent
+whole-genome duplication events in the Brassicales.
+*American Journal of Botany*.
+[<a href="https://doi.org/10.1101/789040 " target="_blank">preprint</a>]
 
 **Blischak, P. D.**, M. S. Barker, and R. N. Gutenkunst. *In press*.
 Inferring the demographic history of inbred species from genome-wide SNP frequency data. *Molecular Biology and Evolution* DOI: 10.1093/molbev/msaa042.
