@@ -30,8 +30,8 @@ whole-genome duplication events in the Brassicales.
 *American Journal of Botany*.
 [<a href="https://doi.org/10.1101/789040 " target="_blank">preprint</a>]
 
-**Blischak, P. D.**, M. S. Barker, and R. N. Gutenkunst. *In press*.
-Inferring the demographic history of inbred species from genome-wide SNP frequency data. *Molecular Biology and Evolution* DOI: 10.1093/molbev/msaa042.
+**Blischak, P. D.**, M. S. Barker, and R. N. Gutenkunst. 2020.
+Inferring the demographic history of inbred species from genome-wide SNP frequency data. *Molecular Biology and Evolution* 37:2124--2136.
 [<a href="https://doi.org/10.1093/molbev/msaa042" target="_blank">link</a> ::
 <a href="https://doi.org/10.1101/2019.12.20.881474" target="_blank">preprint </a> :: 
 <a href="https://github.com/pblischak/inbreeding-sfs" target="_blank">GitHub</a>]
