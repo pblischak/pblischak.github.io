@@ -15,7 +15,13 @@ p {
 
 ### Preprints
 
-Qi, X., H. An, T. E. Hall, C. Di, **P. D. Blischak**, J. C. Pires, M. S. Barker. *In review*.
+**Blischak, P. D.**, M. S. Barker, and R. N. Gutenkunst. *Submitted*.
+Chromosome-scale inference of hybrid speciation and admixture with convolutional
+neural networks. 
+[<a href="https://doi.org/10.1101/2020.06.29.159673" target="_blank">preprint</a> :: 
+<a href="https://github.com/pblischak/hyde-cnn" target="_blank">GitHub</a>]
+
+Qi, X., H. An, T. E. Hall, C. Di, **P. D. Blischak**, J. C. Pires, and M. S. Barker. *In review*.
 Genes derived from ancient polyploidy have higher genetic diversity and are associated with domestication in *Brassica rapa*.
 [<a href="https://doi.org/10.1101/842351" target="_blank">preprint</a>]
 

@@ -18,5 +18,5 @@ div.footer p {
 </style>
 
 <div class="footer">
-<p>Copyright &copy; 2019 Paul Blischak</p>
+<p>Copyright &copy; 2020 Paul Blischak</p>
 </div>
