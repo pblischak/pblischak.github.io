@@ -12,20 +12,11 @@ Empirical Bayes genotyping of biallelic SNPs in polyploids.
 
 ----
 
-#### Fluidigm2PURC
+#### HyDe-CNN
 
-Automated processing of double-barcoded PCR amplicons. 
-[<a href="https://github.com/pblischak/fluidigm2purc" target="_blank">GitHub</a> :: 
-<a href="https://hub.docker.com/r/pblischak/fluidigm2purc/" target="_blank">Docker</a> ::
-<a href="http://fluidigm2purc.readthedocs.io/" target="_blank">docs</a>]
-
-----
-
-#### Ploidyverse
-
-Community-driven tool development for polyploid genomics. 
-[<a href="https://github.com/ploidyverse" target="_blank">GitHub</a> :: 
-<a href="https://ploidyverse.github.io/" target="_blank">docs</a>]
+Hybridization detection with convolutional neural networks.
+[<a href="https://github.com/pblischak/hyde-cnn" target="_blank">GitHub</a> ::
+<a href="https://pblischak.github.io/hyde-cnn" target="_blank">docs</a>]
 
 ----
 
@@ -39,6 +30,31 @@ Detection of hybridization in phylogenomic data sets using phylogenetic invarian
 
 ----
 
+#### Fluidigm2PURC
+
+Automated processing of double-barcoded PCR amplicons. 
+[<a href="https://github.com/pblischak/fluidigm2purc" target="_blank">GitHub</a> :: 
+<a href="https://hub.docker.com/r/pblischak/fluidigm2purc/" target="_blank">Docker</a> ::
+<a href="http://fluidigm2purc.readthedocs.io/" target="_blank">docs</a>]
+
+----
+
+#### QCF
+
+Estimating quartet concordance factors from multilocus sequence data for species
+tree and network inference. [<a href="https://github.com/pblischak/QCF" target="_blank">GitHub</a> ::
+<a href="http://qcf.readthedocs.io/" target="_blank">docs</a>]
+
+----
+
+#### Ploidyverse
+
+Community-driven tool development for polyploid genomics. 
+[<a href="https://github.com/ploidyverse" target="_blank">GitHub</a> :: 
+<a href="https://ploidyverse.github.io/" target="_blank">docs</a>]
+
+----
+
 #### Polyfreqs
 
 An R package for Bayesian population genomics in autopolyploids.
@@ -49,11 +65,3 @@ An R package for Bayesian population genomics in autopolyploids.
 - Install from CRAN: `install.packages("polyfreqs")`.
 
 - The latest developmental version can also be installed directly from GitHub using the **devtools** package: `devtools::install_github("pblischak/polyfreqs")`.
-
-----
-
-#### QCF
-
-Estimating quartet concordance factors from multilocus sequence data for species
-tree and network inference. [<a href="https://github.com/pblischak/QCF" target="_blank">GitHub</a> ::
-<a href="http://qcf.readthedocs.io/" target="_blank">docs</a>]

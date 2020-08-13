@@ -4,9 +4,6 @@ exclude: ["README.md", "LICENSE.md"]
 navbar:
   title: Paul Blischak
   left:
-  - text: Home
-    icon: fa-home
-    href: index.html
   - text: Research
     icon: fa-laptop
     href: research.html
@@ -20,11 +17,11 @@ navbar:
     icon: fa-id-card
     href: contact.html
   right:
-  - icon: fa-github-square
+  - icon: fa-github-square fa-lg
     href: https://github.com/pblischak
-  - icon: fa-linkedin
+  - icon: fa-linkedin fa-lg
     href: https://linkedin.com/in/paulblischak
-  - icon: fa-twitter-square
+  - icon: fa-twitter-square fa-lg
     href: https://twitter.com/PaulBlischak
 output:
   html_document:

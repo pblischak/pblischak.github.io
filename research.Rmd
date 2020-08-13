@@ -19,7 +19,7 @@ bottlenecks) in polyploids using genome-wide SNP data.
 We have also incorporated inbreeding into these inferences, as well as building
 models that can handle differences in the rate of homoeolgous chromosome exchange between
 polyploid subgenomes. All of the new methods that we develop are being added to the Python package
-<a href="https://bitbucket.org/gutenkunstlab/dadi" target="_blank">∂a∂i</a>.
+<a href="https://bitbucket.org/gutenkunstlab/dadi" target="_blank">dadi</a>.
 
 With our newly developed models in hand, the second phase of my postdoc project
 aims to gain a better understanding of the process of domestication in polyploid
