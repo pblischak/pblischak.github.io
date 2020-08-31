@@ -35,9 +35,9 @@ Genes derived from ancient polyploidy have higher genetic diversity and are asso
 
 Mabry, M. E., J. M. Brose, **P. D. Blischak**, B. Sutherland, W. T. Dismukes, C. A. Bottoms,
 P. P. Edger, J. D. Washburn, H. An, J. C. Hall, M. R. McKain, I. Al-Shehbaz, M. S. Barker,
-M. E. Schranz, G. C. Conant, and J. C. Pires. *In press*. Phylogeny and multiple independent
+M. E. Schranz, G. C. Conant, and J. C. Pires. 2020. Phylogeny and multiple independent
 whole-genome duplication events in the Brassicales.
-*American Journal of Botany* DOI: 10.1002/ajb2.1514.
+*American Journal of Botany* 107:1148--1164.
 [<a href="https://doi.org/10.1002/ajb2.1514" target="_blank">link</a> :: 
 <a href="https://doi.org/10.1101/789040 " target="_blank">preprint</a>]
 
