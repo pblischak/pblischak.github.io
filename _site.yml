@@ -13,9 +13,6 @@ navbar:
   - text: Software
     icon: fa-code-fork
     href: software.html
-  - text: Contact
-    icon: fa-id-card
-    href: contact.html
   right:
   - icon: fa-github-square fa-lg
     href: https://github.com/pblischak

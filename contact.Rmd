@@ -6,28 +6,12 @@ title: "Contact"
 
 Paul D. Blischak
 
-NSF Postdoctoral Research Fellow
+Data Scientist (Computational Genetics)
 
-Dept. of Ecology & Evolutionary Biology and
-
-Dept. of Molecular & Cellular Biology
-
-University of Arizona
-
----
-
-**Office**:
-
-321A BioSciences West
-
-1041 E. Lowell St.
-
-Tucson, AZ 85721
+Bayer Crop Science
 
 ---
 
 **Email**:
 
 Gmail: paul.blischak@gmail.com
-
-UofA: pblischak@email.arizona.edu
