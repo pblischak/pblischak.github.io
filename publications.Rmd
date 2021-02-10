@@ -34,10 +34,11 @@ neural networks.
 ### Peer-Reviewed Articles
 
 Qi, X., H. An, T. E. Hall, C. Di, **P. D. Blischak**, M. T. W. McKibben,
-Y. Hao, G. C. Conant, J. C. Pires, and M. S. Barker. *Accepted*.
+Y. Hao, G. C. Conant, J. C. Pires, and M. S. Barker. *In press*.
 Genes derived from ancient polyploidy have higher genetic diversity and are associated
 with domestication in *Brassica rapa*. *New Phytologist*.
-[<a href="https://doi.org/10.1101/842351" target="_blank">preprint</a>]
+[<a href="https://doi.org/10.1111/nph.17194" target="_blank">link</a> ::
+<a href="https://doi.org/10.1101/842351" target="_blank">preprint</a>]
 
 Mabry, M. E., J. M. Brose, **P. D. Blischak**, B. Sutherland, W. T. Dismukes, C. A. Bottoms,
 P. P. Edger, J. D. Washburn, H. An, J. C. Hall, M. R. McKain, I. Al-Shehbaz, M. S. Barker,
