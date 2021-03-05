@@ -19,13 +19,13 @@ p {
 2020. Inferring patterns of hybridization and polyploidy in the plant genus *Penstemon* (Plantaginaceae).
 [<a href="https://doi.org/10.1101/2020.09.04.283093" target="_blank">preprint</a>]
 
-Li, Z., M. T. W. McKibben, G. S. Finch, **P. D. Blischak**, B. L. Sutherland, and M. S. Barker.
-*In review*. Patterns and processes of diploidization in land plants.
-[<a href="https://doi.org/10.5281/zenodo.3964504" target="_blank">preprint</a>]
-
 ----
 
 ### Peer-Reviewed Articles
+
+Li, Z., M. T. W. McKibben, G. S. Finch, **P. D. Blischak**, B. L. Sutherland, and M. S. Barker.
+*In press*. Patterns and processes of diploidization in land plants. *Annual Review of Plant Biology*
+[<a href="https://doi.org/10.5281/zenodo.3964504" target="_blank">preprint</a>]
 
 **Blischak, P. D.**, M. S. Barker, and R. N. Gutenkunst. *Accepted*.
 Chromosome-scale inference of hybrid speciation and admixture with convolutional
@@ -34,9 +34,9 @@ neural networks. *Molecular Ecology Resources*.
 <a href="https://github.com/pblischak/hyde-cnn" target="_blank">GitHub</a>]
 
 Qi, X., H. An, T. E. Hall, C. Di, **P. D. Blischak**, M. T. W. McKibben,
-Y. Hao, G. C. Conant, J. C. Pires, and M. S. Barker. *In press*.
+Y. Hao, G. C. Conant, J. C. Pires, and M. S. Barker. 2021.
 Genes derived from ancient polyploidy have higher genetic diversity and are associated
-with domestication in *Brassica rapa*. *New Phytologist*.
+with domestication in *Brassica rapa*. *New Phytologist* 230:372--386.
 [<a href="https://doi.org/10.1111/nph.17194" target="_blank">link</a> ::
 <a href="https://doi.org/10.1101/842351" target="_blank">preprint</a>]
 
