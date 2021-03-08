@@ -24,13 +24,14 @@ p {
 ### Peer-Reviewed Articles
 
 Li, Z., M. T. W. McKibben, G. S. Finch, **P. D. Blischak**, B. L. Sutherland, and M. S. Barker.
-*In press*. Patterns and processes of diploidization in land plants. *Annual Review of Plant Biology*
+*In press*. Patterns and processes of diploidization in land plants. *Annual Review of Plant Biology*.
 [<a href="https://doi.org/10.5281/zenodo.3964504" target="_blank">preprint</a>]
 
-**Blischak, P. D.**, M. S. Barker, and R. N. Gutenkunst. *Accepted*.
+**Blischak, P. D.**, M. S. Barker, and R. N. Gutenkunst. 2021.
 Chromosome-scale inference of hybrid speciation and admixture with convolutional
 neural networks. *Molecular Ecology Resources*.
-[<a href="https://doi.org/10.1101/2020.06.29.159673" target="_blank">preprint</a> ::
+[<a href="http://doi.org/10.1111/1755-0998.13355" target="_blank">link</a> ::
+<a href="https://doi.org/10.1101/2020.06.29.159673" target="_blank">preprint</a> ::
 <a href="https://github.com/pblischak/hyde-cnn" target="_blank">GitHub</a>]
 
 Qi, X., H. An, T. E. Hall, C. Di, **P. D. Blischak**, M. T. W. McKibben,
