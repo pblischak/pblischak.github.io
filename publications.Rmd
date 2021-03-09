@@ -24,8 +24,9 @@ p {
 ### Peer-Reviewed Articles
 
 Li, Z., M. T. W. McKibben, G. S. Finch, **P. D. Blischak**, B. L. Sutherland, and M. S. Barker.
-*In press*. Patterns and processes of diploidization in land plants. *Annual Review of Plant Biology*.
-[<a href="https://doi.org/10.5281/zenodo.3964504" target="_blank">preprint</a>]
+2021. Patterns and processes of diploidization in land plants. *Annual Review of Plant Biology*.
+[<a href="https://doi.org/10.1146/annurev-arplant-050718-100344" target="_blank">link</a> ::
+<a href="https://doi.org/10.5281/zenodo.3964504" target="_blank">preprint</a>]
 
 **Blischak, P. D.**, M. S. Barker, and R. N. Gutenkunst. 2021.
 Chromosome-scale inference of hybrid speciation and admixture with convolutional
