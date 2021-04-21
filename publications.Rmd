@@ -15,6 +15,11 @@ p {
 
 ### Preprints
 
+Wolfe, A. D., **P. D. Blischak**, and L. S. Kubatko. 2021. Phylogenetics of a 
+rapid, continental radiation: Diversification, biogeography, and 
+circumscription of the Beardtongues (*Penstemon*; Plantaginaceae).
+[<a href="https://doi.org/10.1101/2021.04.20.440652" target="_blank">preprint</a>]
+
 **Blischak, P. D.**, C. E. Thompson, E. M. Waight, L. S. Kubatko, and A. D. Wolfe.
 2020. Inferring patterns of hybridization and polyploidy in the plant genus *Penstemon* (Plantaginaceae).
 [<a href="https://doi.org/10.1101/2020.09.04.283093" target="_blank">preprint</a>]
