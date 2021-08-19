@@ -47,14 +47,6 @@ tree and network inference. [<a href="https://github.com/pblischak/QCF" target="
 
 ----
 
-#### Ploidyverse
-
-Community-driven tool development for polyploid genomics. 
-[<a href="https://github.com/ploidyverse" target="_blank">GitHub</a> :: 
-<a href="https://ploidyverse.github.io/" target="_blank">docs</a>]
-
-----
-
 #### Polyfreqs
 
 An R package for Bayesian population genomics in autopolyploids.
