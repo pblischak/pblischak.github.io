@@ -15,8 +15,8 @@ p {
 
 ### Preprints
 
-Wolfe, A. D., **P. D. Blischak**, and L. S. Kubatko. 2021. Phylogenetics of a 
-rapid, continental radiation: Diversification, biogeography, and 
+Wolfe, A. D., **P. D. Blischak**, and L. S. Kubatko. 2021. Phylogenetics of a
+rapid, continental radiation: Diversification, biogeography, and
 circumscription of the Beardtongues (*Penstemon*; Plantaginaceae).
 [<a href="https://doi.org/10.1101/2021.04.20.440652" target="_blank">preprint</a>]
 
@@ -34,6 +34,14 @@ neural networks. *Molecular Ecology Resources*.
 [<a href="http://doi.org/10.1111/1755-0998.13355" target="_blank">link</a> ::
 <a href="https://doi.org/10.1101/2020.06.29.159673" target="_blank">preprint</a> ::
 <a href="https://github.com/pblischak/hyde-cnn" target="_blank">GitHub</a>]
+
+Kang, L., L. Qian, M. Zheng, L. Chen, H. Chen, L. Yang, L. You, B. Yang,
+M. Yan, Y. Gu, T. Wang, S.-V. Schiessl, H. An, **P. D. Blischak**, X. Liu,
+H. Lu, D. Zhang, Y. Rao, D. Jia, D. Zhou, H. Xiao, Y. Wang, X. Xiong,
+A. S. Mason, J. C. Pires, R. J. Snowdon, W. Hua, and Z. Liu. 2021.
+Genomic insights into the origin, domestication and diversification of
+*Brassica juncea*. *Nature Genetics* 53:1392--1402.
+[<a href="https://doi.org/10.1038/s41588-021-00922-y" target="_blank">link</a>]
 
 Li, Z., M. T. W. McKibben, G. S. Finch, **P. D. Blischak**, B. L. Sutherland, and M. S. Barker.
 2021. Patterns and processes of diploidization in land plants. *Annual Review of Plant Biology* 72:387--410.
