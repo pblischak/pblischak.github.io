@@ -30,7 +30,7 @@ circumscription of the Beardtongues (*Penstemon*; Plantaginaceae).
 
 **Blischak, P. D.**, M. S. Barker, and R. N. Gutenkunst. 2021.
 Chromosome-scale inference of hybrid speciation and admixture with convolutional
-neural networks. *Molecular Ecology Resources*.
+neural networks. *Molecular Ecology Resources* 21:2676--2688.
 [<a href="http://doi.org/10.1111/1755-0998.13355" target="_blank">link</a> ::
 <a href="https://doi.org/10.1101/2020.06.29.159673" target="_blank">preprint</a> ::
 <a href="https://github.com/pblischak/hyde-cnn" target="_blank">GitHub</a>]
