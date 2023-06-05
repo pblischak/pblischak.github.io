@@ -13,25 +13,38 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.3/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.20/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -44,32 +57,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 
 
@@ -79,10 +68,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -99,40 +84,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 60px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h2 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h3 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h4 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h5 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
-.section h6 {
-  padding-top: 65px;
-  margin-top: -65px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -160,7 +121,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -172,7 +133,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -182,11 +143,28 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.parent().addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -198,13 +176,12 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -212,16 +189,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -265,7 +235,7 @@ $(document).ready(function () {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -320,7 +290,7 @@ $(document).ready(function () {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -335,34 +305,168 @@ p {
   padding-bottom: 0.5em;
 }
 </style>
-<p><a href="https://scholar.google.com/citations?user=G6CHdi8AAAAJ&hl=en&oi=sra" target="_blank"><strong>Google Scholar</strong></a></p>
+<p><a href="https://scholar.google.com/citations?user=G6CHdi8AAAAJ&hl=en&oi=sra" target="_blank"><strong>Google
+Scholar</strong></a></p>
 <hr />
 <div id="preprints" class="section level3">
 <h3>Preprints</h3>
-<p><strong>Blischak, P. D.</strong>, M. Sajan<span class="math inline">\(^{\ddagger}\)</span>, M. S. Barker, R. N. Gutenkunst. 2022. Demographic History Inference and the Polyploid Continuum. [<a href="https://doi.org/10.1101/2022.09.15.508148" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/polyploid-demography.git" target="_blank">GitHub</a>]</p>
-<p>Wolfe, A. D., <strong>P. D. Blischak</strong>, and L. S. Kubatko. 2021. Phylogenetics of a rapid, continental radiation: Diversification, biogeography, and circumscription of the Beardtongues (<em>Penstemon</em>; Plantaginaceae). [<a href="https://doi.org/10.1101/2021.04.20.440652" target="_blank">preprint</a>]</p>
-<p><strong>Blischak, P. D.</strong>, C. E. Thompson, E. M. Waight, L. S. Kubatko, and A. D. Wolfe. 2020. Inferring patterns of hybridization and polyploidy in the plant genus <em>Penstemon</em> (Plantaginaceae). [<a href="https://doi.org/10.1101/2020.09.04.283093" target="_blank">preprint</a>]</p>
+<p>Wolfe, A. D., <strong>P. D. Blischak</strong>, and L. S. Kubatko.
+2021. Phylogenetics of a rapid, continental radiation: Diversification,
+biogeography, and circumscription of the Beardtongues
+(<em>Penstemon</em>; Plantaginaceae).
+[<a href="https://doi.org/10.1101/2021.04.20.440652" target="_blank">preprint</a>]</p>
 <hr />
 </div>
 <div id="peer-reviewed-articles" class="section level3">
 <h3>Peer-Reviewed Articles</h3>
-<p><strong>Blischak, P. D.</strong>, M. S. Barker, and R. N. Gutenkunst. 2021. Chromosome-scale inference of hybrid speciation and admixture with convolutional neural networks. <em>Molecular Ecology Resources</em> 21:2676–2688. [<a href="http://doi.org/10.1111/1755-0998.13355" target="_blank">link</a> :: <a href="https://doi.org/10.1101/2020.06.29.159673" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/hyde-cnn" target="_blank">GitHub</a>]</p>
-<p>Kang, L., L. Qian, M. Zheng, L. Chen, H. Chen, L. Yang, L. You, B. Yang, M. Yan, Y. Gu, T. Wang, S.-V. Schiessl, H. An, <strong>P. D. Blischak</strong>, X. Liu, H. Lu, D. Zhang, Y. Rao, D. Jia, D. Zhou, H. Xiao, Y. Wang, X. Xiong, A. S. Mason, J. C. Pires, R. J. Snowdon, W. Hua, and Z. Liu. 2021. Genomic insights into the origin, domestication and diversification of <em>Brassica juncea</em>. <em>Nature Genetics</em> 53:1392–1402. [<a href="https://doi.org/10.1038/s41588-021-00922-y" target="_blank">link</a>]</p>
-<p>Li, Z., M. T. W. McKibben, G. S. Finch, <strong>P. D. Blischak</strong>, B. L. Sutherland, and M. S. Barker. 2021. Patterns and processes of diploidization in land plants. <em>Annual Review of Plant Biology</em> 72:387–410. [<a href="https://doi.org/10.1146/annurev-arplant-050718-100344" target="_blank">link</a> :: <a href="https://doi.org/10.5281/zenodo.3964504" target="_blank">preprint</a>]</p>
-<p>Qi, X., H. An, T. E. Hall, C. Di, <strong>P. D. Blischak</strong>, M. T. W. McKibben, Y. Hao, G. C. Conant, J. C. Pires, and M. S. Barker. 2021. Genes derived from ancient polyploidy have higher genetic diversity and are associated with domestication in <em>Brassica rapa</em>. <em>New Phytologist</em> 230:372–386. [<a href="https://doi.org/10.1111/nph.17194" target="_blank">link</a> :: <a href="https://doi.org/10.1101/842351" target="_blank">preprint</a>]</p>
-<p>Mabry, M. E., J. M. Brose, <strong>P. D. Blischak</strong>, B. Sutherland, W. T. Dismukes, C. A. Bottoms, P. P. Edger, J. D. Washburn, H. An, J. C. Hall, M. R. McKain, I. Al-Shehbaz, M. S. Barker, M. E. Schranz, G. C. Conant, and J. C. Pires. 2020. Phylogeny and multiple independent whole-genome duplication events in the Brassicales. <em>American Journal of Botany</em> 107:1148–1164. [<a href="https://doi.org/10.1002/ajb2.1514" target="_blank">link</a> :: <a href="https://doi.org/10.1101/789040 " target="_blank">preprint</a>]</p>
-<p><strong>Blischak, P. D.</strong>, M. S. Barker, and R. N. Gutenkunst. 2020. Inferring the demographic history of inbred species from genome-wide SNP frequency data. <em>Molecular Biology and Evolution</em> 37:2124–2136. [<a href="https://doi.org/10.1093/molbev/msaa042" target="_blank">link</a> :: <a href="https://doi.org/10.1101/2019.12.20.881474" target="_blank">preprint </a> :: <a href="https://github.com/pblischak/inbreeding-sfs" target="_blank">GitHub</a>]</p>
-<p>Grindstaff, B.<span class="math inline">\(^{\ddagger}\)</span>, M. E. Mabry, <strong>P. D. Blischak</strong>, M. Quinn, and J. C. Pires. 2019. Affordable remote monitoring of plant growth and facilities using Raspberry Pi computers. <em>Applications in Plant Sciences</em> 7:e11280. <span class="math inline">\(^{\ddagger}\)</span>Undergraduate author. [<a href="https://doi.org/10.1002/aps3.11280" target="_blank">link</a> :: <a href="https://doi.org/10.1101/586776" target="_blank">preprint</a> :: <a href="https://github.com/BrandinGrindstaff/GMpi" target="_blank">GitHub</a>]</p>
-<p>Titus, B. M., <strong>P. D. Blischak</strong>, and M. Daly. 2019. Genomic signatures of sympatric speciation with historical and contemporary gene flow in a tropical anthozoan. <em>Molecular Ecology</em> 28:3572–3586. [<a href="https://doi.org/10.1111/mec.15157" target="_blank">link</a> :: <a href="https://doi.org/10.1101/399360" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/Bann_spdelim" target="_blank">GitHub</a>]</p>
-<p><strong>Blischak, P. D.</strong>*, M. E. Mabry*, G. C. Conant, and J. C. Pires. 2018. Integrating networks, phylogenomics, and population genomics for the study of polyploidy. <em>Annual Review of Ecology, Evolution, and Systematics</em> 49:253–278. *Co-first authors. [<a href="https://doi.org/10.1146/annurev-ecolsys-121415-032302" target="_blank">link</a>]</p>
-<p><strong>Blischak, P. D.</strong>, J. Chifman, A. D. Wolfe, and L. S. Kubatko. 2018. HyDe: a Python package for genome-scale hybridization detection. <em>Systematic Biology</em> 67:821–829. [<a href="https://doi.org/10.1093/sysbio/syy023" target="_blank">link</a> :: <a href="https://www.biorxiv.org/content/early/2018/01/22/188037" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/HyDe" target="_blank">GitHub</a>]</p>
-<p><strong>Blischak, P. D.</strong>, M. Latvis, D. F. Morales-Briones, J. C. Johnson, V. S. Di Stilio, A. D. Wolfe, and D. C. Tank. 2018. Fluidigm2PURC: automated processing and haplotype inference for double-barcoded PCR amplicons. <em>Applications in Plant Sciences</em> 6:e1156. [<a href="https://doi.org/10.1002/aps3.1156" target="_blank">link</a> :: <a href="http://biorxiv.org/cgi/content/short/242677v1" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/fluidigm2purc" target="_blank">GitHub</a> :: <a href="https://hub.docker.com/r/pblischak/fluidigm2purc/" target="_blank">Docker</a>]</p>
-<p><strong>Blischak, P. D.</strong>, L. S. Kubatko, and A. D. Wolfe. 2018. SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data. <em>Bioinformatics</em> 34:407–415. [<a href="https://doi.org/10.1093/bioinformatics/btx587" target="_blank">link</a> :: <a href="https://www.biorxiv.org/content/early/2017/07/24/120261" target="_blank">preprint</a> :: <a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]</p>
-<p>Latvis, M., S. J. Jacobs, S. M. E. Mortimer, M. Richards, <strong>P. D. Blischak</strong>, S. Mathews, and D. C. Tank. 2017. Primers for <em>Castilleja</em> and their utility across Orobanchaceae: II. single-copy nuclear loci. <em>Applications in Plant Sciences</em> 5:1700038. [<a href="http://www.bioone.org/doi/full/10.3732/apps.1700038" target="_blank">link</a>]</p>
-<p>Wolfe, A. D., T. Necamp, S. Fassnacht, <strong>P. D. Blischak</strong>, and L. S. Kubatko. 2016. Population genetics of <em>Penstemon albomarginatus</em> (Plantaginaceae), a rare Mojave Desert species of conservation concern. <em>Conservation Genetics</em> 17:1245–1255. [<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]</p>
-<p><strong>Blischak, P. D.</strong>, L. S. Kubatko, and A. D. Wolfe. 2016. Accounting for genotype uncertainty in the estimation of allele frequencies in autopolyploids. <em>Molecular Ecology Resources</em> 16:742–754. [<a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12493/abstract" target="_blank">link</a> :: <a href="http://biorxiv.org/content/early/2015/09/23/021907" target="_blank">preprint</a> :: <a href="http://dx.doi.org/10.5061/dryad.t297p" target="_blank">Dryad</a> :: <a href="https://github.com/pblischak/polyfreqs-ms-data" target="_blank">GitHub</a>]</p>
-<p><strong>Blischak, P. D.</strong>, A. J. Wenzel, and A. D. Wolfe. 2014. Gene prediction and annotation in <em>Penstemon</em> (Plantaginaceae): a workflow for marker development from extremely low-coverage genome sequencing. <em>Applications in Plant Sciences</em> 2:1400044. [<a href="http://www.bioone.org/doi/abs/10.3732/apps.1400044" target="_blank">link</a> :: <a href="http://doi.org/10.5061/dryad.f6s22" target="_blank">Dryad</a>]</p>
-<p><span class="math inline">\(^{\ddagger}\)</span>Undergraduate researcher</p>
+<p><strong>Blischak, P. D.</strong>, M. Sajan<span
+class="math inline">\(^{\ddagger}\)</span>, M. S. Barker, R. N.
+Gutenkunst. In press. Demographic History Inference and the Polyploid
+Continuum. <em>Genetics</em>. <span
+class="math inline">\(^{\ddagger}\)</span>Undergraduate researcher.
+[<a href="https://doi.org/10.1093/genetics/iyad107" target="_blank">link</a>
+::
+<a href="https://doi.org/10.1101/2022.09.15.508148" target="_blank">preprint</a>
+::
+<a href="https://github.com/pblischak/polyploid-demography.git" target="_blank">GitHub</a>]</p>
+<p><strong>Blischak, P. D.</strong>, M. S. Barker, and R. N. Gutenkunst.
+2021. Chromosome-scale inference of hybrid speciation and admixture with
+convolutional neural networks. <em>Molecular Ecology Resources</em>
+21:2676–2688.
+[<a href="http://doi.org/10.1111/1755-0998.13355" target="_blank">link</a>
+::
+<a href="https://doi.org/10.1101/2020.06.29.159673" target="_blank">preprint</a>
+::
+<a href="https://github.com/pblischak/hyde-cnn" target="_blank">GitHub</a>]</p>
+<p>Kang, L., L. Qian, M. Zheng, L. Chen, H. Chen, L. Yang, L. You, B.
+Yang, M. Yan, Y. Gu, T. Wang, S.-V. Schiessl, H. An, <strong>P. D.
+Blischak</strong>, X. Liu, H. Lu, D. Zhang, Y. Rao, D. Jia, D. Zhou, H.
+Xiao, Y. Wang, X. Xiong, A. S. Mason, J. C. Pires, R. J. Snowdon, W.
+Hua, and Z. Liu. 2021. Genomic insights into the origin, domestication
+and diversification of <em>Brassica juncea</em>. <em>Nature
+Genetics</em> 53:1392–1402.
+[<a href="https://doi.org/10.1038/s41588-021-00922-y" target="_blank">link</a>]</p>
+<p>Li, Z., M. T. W. McKibben, G. S. Finch, <strong>P. D.
+Blischak</strong>, B. L. Sutherland, and M. S. Barker. 2021. Patterns
+and processes of diploidization in land plants. <em>Annual Review of
+Plant Biology</em> 72:387–410.
+[<a href="https://doi.org/10.1146/annurev-arplant-050718-100344" target="_blank">link</a>
+::
+<a href="https://doi.org/10.5281/zenodo.3964504" target="_blank">preprint</a>]</p>
+<p>Qi, X., H. An, T. E. Hall, C. Di, <strong>P. D. Blischak</strong>, M.
+T. W. McKibben, Y. Hao, G. C. Conant, J. C. Pires, and M. S. Barker.
+2021. Genes derived from ancient polyploidy have higher genetic
+diversity and are associated with domestication in <em>Brassica
+rapa</em>. <em>New Phytologist</em> 230:372–386.
+[<a href="https://doi.org/10.1111/nph.17194" target="_blank">link</a> ::
+<a href="https://doi.org/10.1101/842351" target="_blank">preprint</a>]</p>
+<p>Mabry, M. E., J. M. Brose, <strong>P. D. Blischak</strong>, B.
+Sutherland, W. T. Dismukes, C. A. Bottoms, P. P. Edger, J. D. Washburn,
+H. An, J. C. Hall, M. R. McKain, I. Al-Shehbaz, M. S. Barker, M. E.
+Schranz, G. C. Conant, and J. C. Pires. 2020. Phylogeny and multiple
+independent whole-genome duplication events in the Brassicales.
+<em>American Journal of Botany</em> 107:1148–1164.
+[<a href="https://doi.org/10.1002/ajb2.1514" target="_blank">link</a> ::
+<a href="https://doi.org/10.1101/789040 " target="_blank">preprint</a>]</p>
+<p><strong>Blischak, P. D.</strong>, M. S. Barker, and R. N. Gutenkunst.
+2020. Inferring the demographic history of inbred species from
+genome-wide SNP frequency data. <em>Molecular Biology and Evolution</em>
+37:2124–2136.
+[<a href="https://doi.org/10.1093/molbev/msaa042" target="_blank">link</a>
+::
+<a href="https://doi.org/10.1101/2019.12.20.881474" target="_blank">preprint
+</a> ::
+<a href="https://github.com/pblischak/inbreeding-sfs" target="_blank">GitHub</a>]</p>
+<p>Grindstaff, B.<span class="math inline">\(^{\ddagger}\)</span>, M. E.
+Mabry, <strong>P. D. Blischak</strong>, M. Quinn, and J. C. Pires. 2019.
+Affordable remote monitoring of plant growth and facilities using
+Raspberry Pi computers. <em>Applications in Plant Sciences</em>
+7:e11280. <span class="math inline">\(^{\ddagger}\)</span>Undergraduate
+author.
+[<a href="https://doi.org/10.1002/aps3.11280" target="_blank">link</a>
+:: <a href="https://doi.org/10.1101/586776" target="_blank">preprint</a>
+::
+<a href="https://github.com/BrandinGrindstaff/GMpi" target="_blank">GitHub</a>]</p>
+<p>Titus, B. M., <strong>P. D. Blischak</strong>, and M. Daly. 2019.
+Genomic signatures of sympatric speciation with historical and
+contemporary gene flow in a tropical anthozoan. <em>Molecular
+Ecology</em> 28:3572–3586.
+[<a href="https://doi.org/10.1111/mec.15157" target="_blank">link</a> ::
+<a href="https://doi.org/10.1101/399360" target="_blank">preprint</a> ::
+<a href="https://github.com/pblischak/Bann_spdelim" target="_blank">GitHub</a>]</p>
+<p><strong>Blischak, P. D.</strong>*, M. E. Mabry*, G. C. Conant, and J.
+C. Pires. 2018. Integrating networks, phylogenomics, and population
+genomics for the study of polyploidy. <em>Annual Review of Ecology,
+Evolution, and Systematics</em> 49:253–278. *Co-first authors.
+[<a href="https://doi.org/10.1146/annurev-ecolsys-121415-032302" target="_blank">link</a>]</p>
+<p><strong>Blischak, P. D.</strong>, J. Chifman, A. D. Wolfe, and L. S.
+Kubatko. 2018. HyDe: a Python package for genome-scale hybridization
+detection. <em>Systematic Biology</em> 67:821–829.
+[<a href="https://doi.org/10.1093/sysbio/syy023" target="_blank">link</a>
+::
+<a href="https://www.biorxiv.org/content/early/2018/01/22/188037" target="_blank">preprint</a>
+::
+<a href="https://github.com/pblischak/HyDe" target="_blank">GitHub</a>]</p>
+<p><strong>Blischak, P. D.</strong>, M. Latvis, D. F. Morales-Briones,
+J. C. Johnson, V. S. Di Stilio, A. D. Wolfe, and D. C. Tank. 2018.
+Fluidigm2PURC: automated processing and haplotype inference for
+double-barcoded PCR amplicons. <em>Applications in Plant Sciences</em>
+6:e1156.
+[<a href="https://doi.org/10.1002/aps3.1156" target="_blank">link</a> ::
+<a href="http://biorxiv.org/cgi/content/short/242677v1" target="_blank">preprint</a>
+::
+<a href="https://github.com/pblischak/fluidigm2purc" target="_blank">GitHub</a>
+::
+<a href="https://hub.docker.com/r/pblischak/fluidigm2purc/" target="_blank">Docker</a>]</p>
+<p><strong>Blischak, P. D.</strong>, L. S. Kubatko, and A. D. Wolfe.
+2018. SNP genotyping and parameter estimation in polyploids using
+low-coverage sequencing data. <em>Bioinformatics</em> 34:407–415.
+[<a href="https://doi.org/10.1093/bioinformatics/btx587" target="_blank">link</a>
+::
+<a href="https://www.biorxiv.org/content/early/2017/07/24/120261" target="_blank">preprint</a>
+::
+<a href="https://github.com/pblischak/polyploid-genotyping" target="_blank">GitHub</a>]</p>
+<p>Latvis, M., S. J. Jacobs, S. M. E. Mortimer, M. Richards, <strong>P.
+D. Blischak</strong>, S. Mathews, and D. C. Tank. 2017. Primers for
+<em>Castilleja</em> and their utility across Orobanchaceae: II.
+single-copy nuclear loci. <em>Applications in Plant Sciences</em>
+5:1700038.
+[<a href="http://www.bioone.org/doi/full/10.3732/apps.1700038" target="_blank">link</a>]</p>
+<p>Wolfe, A. D., T. Necamp, S. Fassnacht, <strong>P. D.
+Blischak</strong>, and L. S. Kubatko. 2016. Population genetics of
+<em>Penstemon albomarginatus</em> (Plantaginaceae), a rare Mojave Desert
+species of conservation concern. <em>Conservation Genetics</em>
+17:1245–1255.
+[<a href="http://link.springer.com/article/10.1007/s10592-016-0857-y" target="_blank">link</a>]</p>
+<p><strong>Blischak, P. D.</strong>, L. S. Kubatko, and A. D. Wolfe.
+2016. Accounting for genotype uncertainty in the estimation of allele
+frequencies in autopolyploids. <em>Molecular Ecology Resources</em>
+16:742–754.
+[<a href="http://onlinelibrary.wiley.com/doi/10.1111/1755-0998.12493/abstract" target="_blank">link</a>
+::
+<a href="http://biorxiv.org/content/early/2015/09/23/021907" target="_blank">preprint</a>
+::
+<a href="http://dx.doi.org/10.5061/dryad.t297p" target="_blank">Dryad</a>
+::
+<a href="https://github.com/pblischak/polyfreqs-ms-data" target="_blank">GitHub</a>]</p>
+<p><strong>Blischak, P. D.</strong>, A. J. Wenzel, and A. D. Wolfe.
+2014. Gene prediction and annotation in <em>Penstemon</em>
+(Plantaginaceae): a workflow for marker development from extremely
+low-coverage genome sequencing. <em>Applications in Plant Sciences</em>
+2:1400044.
+[<a href="http://www.bioone.org/doi/abs/10.3732/apps.1400044" target="_blank">link</a>
+::
+<a href="http://doi.org/10.5061/dryad.f6s22" target="_blank">Dryad</a>]</p>
+</div>
+<div id="book-chapters" class="section level3">
+<h3>Book Chapters</h3>
+<p><strong>Blischak, P. D.</strong>, C. E. Thompson, E. M. Waight, L. S.
+Kubatko, and A. D. Wolfe. 2023. “Inferring patterns of hybridization and
+polyploidy in the plant genus <em>Penstemon</em> (Plantaginaceae).”
+<em>In</em> L. S. Kubatko and L. Lacey Knowles (ed.), <em>Species Tree
+Inference: A Guide to Methods and Applications</em>, Princeton
+University Press, pp. 175–190.
+[<a href="https://doi.org/10.1101/2020.09.04.283093" target="_blank">preprint</a>]</p>
 </div>
 
 <style>
@@ -385,7 +489,7 @@ div.footer p {
 </style>
 
 <div class="footer">
-<p>Copyright &copy; 2022 Paul Blischak</p>
+<p>Copyright &copy; 2023 Paul Blischak</p>
 </div>
 
 
@@ -396,7 +500,7 @@ div.footer p {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -414,7 +518,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>

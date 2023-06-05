@@ -4,6 +4,13 @@ title: "Software"
 
 ----
 
+#### zprob
+
+A statistics library implementing functions for common probability distributions. Written in the <a href="https://ziglang.org" target="_blank">Zig programming language</a>.
+[<a href="https://github.com/pblischak/zprob" target="_blank">GitHub</a>]
+
+----
+
 #### EBG
 
 Empirical Bayes genotyping of biallelic SNPs in polyploids. 
