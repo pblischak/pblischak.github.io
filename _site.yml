@@ -19,7 +19,7 @@ navbar:
   - icon: fa-linkedin fa-lg
     href: https://linkedin.com/in/paulblischak
   - icon: fa-twitter-square fa-lg
-    href: https://twitter.com/PaulBlischak
+    href: https://bsky.app/profile/pblischak.bsky.social
 output:
   html_document:
     theme: flatly
