@@ -25,8 +25,13 @@ circumscription of the Beardtongues (*Penstemon*; Plantaginaceae).
 
 ### Peer-Reviewed Articles
 
-**Blischak, P. D.**, M. Sajan$^{\ddagger}$, M. S. Barker, R. N. Gutenkunst. In press.
-Demographic History Inference and the Polyploid Continuum. *Genetics*. $^{\ddagger}$Undergraduate researcher.
+Shan, S., J. P. Spoelhof, **P. D. Blischak**, J. Batley, P. S. Soltis, D. E. Soltis, and D. Edwards.
+2025. Pangenomes provide new insights into polyploidy in plants.
+*Evolutionary Journal of the Linnean Society*, kzaf010.
+[<a href="https://doi.org/10.1093/evolinnean/kzaf010" target="_blank">link</a>]
+
+**Blischak, P. D.**, M. Sajan$^{\ddagger}$, M. S. Barker, R. N. Gutenkunst. 2023.
+Demographic history inference and the polyploid continuum. *Genetics* 224:iyad107. $^{\ddagger}$Undergraduate author.
 [<a href="https://doi.org/10.1093/genetics/iyad107" target="_blank">link</a> :: 
 <a href="https://doi.org/10.1101/2022.09.15.508148" target="_blank">preprint</a> :: 
 <a href="https://github.com/pblischak/polyploid-demography.git" target="_blank">GitHub</a>]
